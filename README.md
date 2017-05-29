@@ -1,2 +1,4 @@
-# nefit_easy_protocol
-Nefit Easy Protocol Description
+# Nefit Easy Protocol
+
+Attempt to document the Nefit Easy thermostat Protocol
+
