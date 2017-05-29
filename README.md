@@ -1,6 +1,15 @@
 # Nefit Easy Protocol
 
-Attempt to document the Nefit Easy thermostat Protocol
+Attempt to document the Nefit Easy thermostat Protocol.
+This is based on reverse engineering & the excellent work of Rober Klep
+
+## Known open source projects 
+
+Projects implementing the Nefir Easy protocol
+
+* https://github.com/robertklep/nefit-easy-commands (nodejs)
+* https://github.com/marcelrv/openhab2/tree/nefit (java) (NB. immature/ experimental stage)
+
 
 All known endpoints here [Endpoints.md](Endpoints.md)
 
