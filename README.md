@@ -5,7 +5,7 @@ This is based on reverse engineering & the excellent work of Rober Klep
 
 ## Known open source projects 
 
-Projects implementing the Nefir Easy protocol
+Projects implementing the Nefit Easy protocol
 
 * https://github.com/robertklep/nefit-easy-commands (nodejs)
 * https://github.com/marcelrv/openhab2/tree/nefit (java) (NB. immature/ experimental stage)
