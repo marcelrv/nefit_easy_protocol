@@ -1,7 +1,8 @@
 # Nefit Easy Protocol
 
 Attempt to document the Nefit Easy thermostat Protocol.
-This is based on reverse engineering & the excellent work of Rober Klep
+
+This is based on reverse engineering & the excellent work of Robert Klep
 
 ## Known open source projects 
 
