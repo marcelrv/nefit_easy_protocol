@@ -9,7 +9,7 @@
 | URL   | /dhwCircuits/dhwA/extraDhw/supported   |
 | Recordable   | False   |
 | Writable   | False   |
-| Parameters  | N/A  |
+| Parameters  | N/A |
 
 ### Detailed Content
 

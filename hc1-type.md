@@ -9,7 +9,7 @@
 | URL   | /heatingCircuits/hc1/type   |
 | Recordable   | False   |
 | Writable   | True   |
-| Parameters  | N/A  |
+| Parameters  | N/A |
 
 ### Detailed Content
 

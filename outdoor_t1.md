@@ -9,7 +9,7 @@ Provides outdoor temperature information from physical sensor or internet
 | URL   | /system/sensors/temperatures/outdoor_t1   |
 | Recordable   | False   |
 | Writable   | False   |
-| Parameters  | N/A  |
+| Parameters  | N/A |
 
 ### Detailed Content
 

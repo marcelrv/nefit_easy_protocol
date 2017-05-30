@@ -9,7 +9,7 @@
 | URL   | /ecus/rrc/pm/refillneeded/status   |
 | Recordable   | False   |
 | Writable   | False   |
-| Parameters  | N/A  |
+| Parameters  | N/A |
 
 ### Detailed Content
 

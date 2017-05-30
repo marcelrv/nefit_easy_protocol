@@ -9,7 +9,7 @@
 | URL   | /heatingCircuits/hc1/actualSupplyTemperature   |
 | Recordable   | False   |
 | Writable   | False   |
-| Parameters  | N/A  |
+| Parameters  | N/A |
 
 ### Detailed Content
 

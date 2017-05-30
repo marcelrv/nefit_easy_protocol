@@ -9,7 +9,7 @@
 | URL   | /system/interfaces/ems/brandbit   |
 | Recordable   | False   |
 | Writable   | False   |
-| Parameters  | N/A  |
+| Parameters  | N/A |
 
 ### Detailed Content
 

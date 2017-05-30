@@ -9,7 +9,7 @@
 | URL   | /dhwCircuits/dhwA/thermaldesinfect/lastresult   |
 | Recordable   | False   |
 | Writable   | False   |
-| Parameters  | N/A  |
+| Parameters  | N/A |
 
 ### Detailed Content
 

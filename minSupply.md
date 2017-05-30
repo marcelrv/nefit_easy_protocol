@@ -9,7 +9,7 @@
 | URL   | /ecus/rrc/weatherDependent/minSupply   |
 | Recordable   | False   |
 | Writable   | True   |
-| Parameters  | N/A  |
+| Parameters  | N/A |
 
 ### Detailed Content
 

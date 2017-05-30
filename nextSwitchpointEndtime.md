@@ -9,7 +9,7 @@
 | URL   | /ecus/rrc/selflearning/nextSwitchpointEndtime   |
 | Recordable   | False   |
 | Writable   | False   |
-| Parameters  | N/A  |
+| Parameters  | N/A |
 
 ### Detailed Content
 

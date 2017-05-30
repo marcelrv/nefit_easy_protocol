@@ -9,7 +9,7 @@
 | URL   | /ecus/rrc/recordings/yearTotal   |
 | Recordable   | False   |
 | Writable   | False   |
-| Parameters  | N/A  |
+| Parameters  | N/A |
 
 ### Detailed Content
 

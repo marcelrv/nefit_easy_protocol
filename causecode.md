@@ -9,7 +9,7 @@
 | URL   | /system/appliance/causecode   |
 | Recordable   | False   |
 | Writable   | False   |
-| Parameters  | N/A  |
+| Parameters  | N/A |
 
 ### Detailed Content
 

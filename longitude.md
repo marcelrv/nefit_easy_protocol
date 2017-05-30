@@ -9,7 +9,7 @@ Provides the location of the thermostat for outside temperature data
 | URL   | /system/location/longitude   |
 | Recordable   | False   |
 | Writable   | True   |
-| Parameters  | N/A  |
+| Parameters  | N/A |
 
 ### Detailed Content
 

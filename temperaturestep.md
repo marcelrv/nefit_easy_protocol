@@ -9,7 +9,7 @@
 | URL   | /ecus/rrc/temperaturestep   |
 | Recordable   | False   |
 | Writable   | True   |
-| Parameters  | N/A  |
+| Parameters  | N/A |
 
 ### Detailed Content
 

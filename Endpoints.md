@@ -1,4 +1,4 @@
-# Endpoint
+# Known Nefit Endpoints
 
 | Description  | EndPoint URL | Documented | Writable | Recordable |
 | ------------- | ------------- | --- | ------------- | ------------- |

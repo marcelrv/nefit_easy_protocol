@@ -9,7 +9,7 @@
 | URL   | /ecus/rrc/userprogram/activeprogram   |
 | Recordable   | False   |
 | Writable   | True   |
-| Parameters  | N/A  |
+| Parameters  | N/A |
 
 ### Detailed Content
 

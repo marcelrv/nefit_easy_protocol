@@ -9,7 +9,7 @@
 | URL   | /dhwCircuits/dhwA/dhwNextSwitchpoint   |
 | Recordable   | False   |
 | Writable   | False   |
-| Parameters  | N/A  |
+| Parameters  | N/A |
 
 ### Detailed Content
 

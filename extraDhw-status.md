@@ -9,7 +9,7 @@
 | URL   | /dhwCircuits/dhwA/extraDhw/status   |
 | Recordable   | False   |
 | Writable   | True   |
-| Parameters  | N/A  |
+| Parameters  | N/A |
 
 ### Detailed Content
 

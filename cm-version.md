@@ -9,7 +9,7 @@
 | URL   | /system/appliance/cm/version   |
 | Recordable   | False   |
 | Writable   | False   |
-| Parameters  | N/A  |
+| Parameters  | N/A |
 
 ### Detailed Content
 

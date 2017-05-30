@@ -9,7 +9,7 @@
 | URL   | /heatingCircuits/hc1/operationMode   |
 | Recordable   | False   |
 | Writable   | True   |
-| Parameters  | N/A  |
+| Parameters  | N/A |
 
 ### Detailed Content
 

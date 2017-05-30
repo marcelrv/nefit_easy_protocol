@@ -9,7 +9,7 @@
 | URL   | /gateway/uuid   |
 | Recordable   | False   |
 | Writable   | False   |
-| Parameters  | N/A  |
+| Parameters  | N/A |
 
 ### Detailed Content
 

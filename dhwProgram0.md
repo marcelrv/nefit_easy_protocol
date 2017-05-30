@@ -9,7 +9,7 @@
 | URL   | /dhwCircuits/dhwA/dhwProgram0   |
 | Recordable   | False   |
 | Writable   | True   |
-| Parameters  | N/A  |
+| Parameters  | N/A |
 
 ### Detailed Content
 

@@ -9,7 +9,7 @@
 | URL   | /dhwCircuits/dhwA/dhwOperationManualMode   |
 | Recordable   | False   |
 | Writable   | True   |
-| Parameters  | N/A  |
+| Parameters  | N/A |
 
 ### Detailed Content
 
