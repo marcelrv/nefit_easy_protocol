@@ -21,6 +21,8 @@
 |  value | [{u'active': u'on', u'dhw': u'on', u'd': u'Mo', u't': 1020}] |  |
 |  writeable | 0 | Writable parameter (0=No) |
 
+
+
 ### Example
 ```
 {

@@ -21,6 +21,8 @@
 |  value | Mo |  |
 |  writeable | 1 | Writable parameter (0=No) |
 
+
+
 ### Example
 ```
 {

@@ -24,6 +24,8 @@
 |  value | 75 |  |
 |  writeable | 1 | Writable parameter (0=No) |
 
+
+
 ### Example
 ```
 {

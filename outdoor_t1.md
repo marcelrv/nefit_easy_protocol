@@ -26,6 +26,8 @@ Provides outdoor temperature information from physical sensor or internet
 |  value | 25 |  |
 |  writeable | 0 | Writable parameter (0=No) |
 
+
+
 ### Example
 ```
 {

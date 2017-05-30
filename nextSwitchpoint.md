@@ -18,11 +18,18 @@
 |  id | /ecus/rrc/selflearning/nextSwitchpoint | Message ID (URL) |
 |  recordable | 0 | Recordable parameter (0=No) |
 |  type | switchpoint | Data type of value |
-|  value | {u't': 0, u'T': 5, u'd': u'Su'} |  |
+|  value | {"t": 0, "T": 5, "d": "Su"} |  |
+|  writeable | 1 | Writable parameter (0=No) |
+
+
+### switchpoint type details 
+
+|  Key  | Example | Description |
+| ------------- | :------: | ------------------------------ |
 |  T | 5 |  |
 |  d | Su |  |
 |  t | 0 |  |
-|  writeable | 1 | Writable parameter (0=No) |
+
 
 ### Example
 ```

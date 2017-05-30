@@ -21,6 +21,8 @@
 |  value | 02.18.02 |  |
 |  writeable | 0 | Writable parameter (0=No) |
 
+
+
 ### Example
 ```
 {

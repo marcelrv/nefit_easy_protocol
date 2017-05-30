@@ -21,6 +21,8 @@
 |  value | Andere periode 2 |  |
 |  writeable | 1 | Writable parameter (0=No) |
 
+
+
 ### Example
 ```
 {
