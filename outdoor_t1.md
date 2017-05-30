@@ -11,7 +11,7 @@ Provides outdoor temperature information from physical sensor or internet
 | Writable   | 0   |
 | Parameters  | N/A  |
 
-## Detailed Content
+### Detailed Content
 
 |  Key  | Example | Description |
 | ------------- | :------: | ------------------------------ |

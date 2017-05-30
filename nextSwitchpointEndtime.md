@@ -1,4 +1,4 @@
-# 
+# nextSwitchpointEndtime
 
 
 
@@ -11,7 +11,7 @@
 | Writable   | 0   |
 | Parameters  | N/A  |
 
-## Detailed Content
+### Detailed Content
 
 |  Key  | Example | Description |
 | ------------- | :------: | ------------------------------ |
@@ -19,6 +19,9 @@
 |  recordable | 0 | Recordable parameter (0=No) |
 |  type | switchpoint | Data type of value |
 |  value | {u't': 0, u'T': 5, u'd': u'Su'} |  |
+|  T | 5 |  |
+|  d | Su |  |
+|  t | 0 |  |
 |  writeable | 0 | Writable parameter (0=No) |
 
 ### Example
