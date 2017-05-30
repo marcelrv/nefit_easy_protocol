@@ -7,8 +7,8 @@
 | Info  | Details |
 | ------------- | ------------- |
 | URL   | /ecus/rrc/selflearning/nextSwitchpoint   |
-| Recordable   | 0   |
-| Writable   | 1   |
+| Recordable   | False   |
+| Writable   | True   |
 | Parameters  | N/A  |
 
 ### Detailed Content

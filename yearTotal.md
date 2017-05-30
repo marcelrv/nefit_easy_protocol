@@ -7,8 +7,8 @@
 | Info  | Details |
 | ------------- | ------------- |
 | URL   | /ecus/rrc/recordings/yearTotal   |
-| Recordable   | 0   |
-| Writable   | 0   |
+| Recordable   | False   |
+| Writable   | False   |
 | Parameters  | N/A  |
 
 ### Detailed Content

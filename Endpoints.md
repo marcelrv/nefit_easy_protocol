@@ -1,92 +1,92 @@
 # Endpoint
 
-| EndPoint URL  | Description |
-| ------------- | ------------- |
-| /dhwCircuits/dhwA/dhwCurrentSwitchpoint | [dhwCurrentSwitchpoint](dhwCurrentSwitchpoint.md) |
-| /dhwCircuits/dhwA/dhwNextSwitchpoint | [dhwNextSwitchpoint](dhwNextSwitchpoint.md) |
-| /dhwCircuits/dhwA/dhwOffDuringAbsence | [dhwOffDuringAbsence](dhwOffDuringAbsence.md) |
-| /dhwCircuits/dhwA/dhwOffDuringNight | [dhwOffDuringNight](dhwOffDuringNight.md) |
-| /dhwCircuits/dhwA/dhwOperationManualMode | [dhwOperationManualMode](dhwOperationManualMode.md) |
-| /dhwCircuits/dhwA/dhwOperationMode | [dhwOperationMode](dhwOperationMode.md) |
-| /dhwCircuits/dhwA/dhwOperationType | [dhwOperationType](dhwOperationType.md) |
-| /dhwCircuits/dhwA/dhwProgram0 | [dhwProgram0](dhwProgram0.md) |
-| /dhwCircuits/dhwA/dhwProgram1 | [dhwProgram1](dhwProgram1.md) |
-| /dhwCircuits/dhwA/dhwProgram2 | [dhwProgram2](dhwProgram2.md) |
-| /dhwCircuits/dhwA/extraDhw/duration | [extraDhw-duration](extraDhw-duration.md) |
-| /dhwCircuits/dhwA/extraDhw/status | [extraDhw-status](extraDhw-status.md) |
-| /dhwCircuits/dhwA/extraDhw/supported | [extraDhw-supported](extraDhw-supported.md) |
-| /dhwCircuits/dhwA/hotWaterSystem | [hotWaterSystem](hotWaterSystem.md) |
-| /dhwCircuits/dhwA/thermaldesinfect/lastresult | [thermaldesinfect-lastresult](thermaldesinfect-lastresult.md) |
-| /dhwCircuits/dhwA/thermaldesinfect/state | [thermaldesinfect-state](thermaldesinfect-state.md) |
-| /dhwCircuits/dhwA/thermaldesinfect/time | [thermaldesinfect-time](thermaldesinfect-time.md) |
-| /dhwCircuits/dhwA/thermaldesinfect/weekday | [thermaldesinfect-weekday](thermaldesinfect-weekday.md) |
-| /ecus/rrc/homeentrancedetection | [homeentrancedetection](homeentrancedetection.md) |
-| /ecus/rrc/installerdetails | [installerdetails](installerdetails.md) |
-| /ecus/rrc/lockuserinterface | [lockuserinterface](lockuserinterface.md) |
-| /ecus/rrc/personaldetails | [personaldetails](personaldetails.md) |
-| /ecus/rrc/pirSensitivity | [pirSensitivity](pirSensitivity.md) |
-| /ecus/rrc/pm/closingvalve/status | [closingvalve-status](closingvalve-status.md) |
-| /ecus/rrc/pm/ignition/status | [ignition-status](ignition-status.md) |
-| /ecus/rrc/pm/refillneeded/status | [refillneeded-status](refillneeded-status.md) |
-| /ecus/rrc/pm/shorttapping/status | [shorttapping-status](shorttapping-status.md) |
-| /ecus/rrc/pm/systemleaking/status | [systemleaking-status](systemleaking-status.md) |
-| /ecus/rrc/recordings/gasusagePointer | [gasusagePointer](gasusagePointer.md) |
-| /ecus/rrc/recordings/yearTotal | [yearTotal](yearTotal.md) |
-| /ecus/rrc/selflearning/learnedprogram | [learnedprogram](learnedprogram.md) |
-| /ecus/rrc/selflearning/nextSwitchpoint | [nextSwitchpoint](nextSwitchpoint.md) |
-| /ecus/rrc/selflearning/nextSwitchpointEndtime | [nextSwitchpointEndtime](nextSwitchpointEndtime.md) |
-| /ecus/rrc/temperaturestep | [temperaturestep](temperaturestep.md) |
-| /ecus/rrc/uiStatus | [Status Message](uiStatus.md) |
-| /ecus/rrc/userprogram/activeprogram | [activeprogram](activeprogram.md) |
-| /ecus/rrc/userprogram/fireplacefunction | [fireplacefunction](fireplacefunction.md) |
-| /ecus/rrc/userprogram/preheating | [preheating](preheating.md) |
-| /ecus/rrc/userprogram/program0 | [program0](program0.md) |
-| /ecus/rrc/userprogram/program1 | [program1](program1.md) |
-| /ecus/rrc/userprogram/program2 | [program2](program2.md) |
-| /ecus/rrc/userprogram/userswitchpointname1 | [userswitchpointname1](userswitchpointname1.md) |
-| /ecus/rrc/userprogram/userswitchpointname2 | [userswitchpointname2](userswitchpointname2.md) |
-| /ecus/rrc/weatherDependent/basePointSupply | [basePointSupply](basePointSupply.md) |
-| /ecus/rrc/weatherDependent/endPointSupply | [endPointSupply](endPointSupply.md) |
-| /ecus/rrc/weatherDependent/forcedSwitchedOff | [forcedSwitchedOff](forcedSwitchedOff.md) |
-| /ecus/rrc/weatherDependent/maxSupply | [maxSupply](maxSupply.md) |
-| /ecus/rrc/weatherDependent/minSupply | [minSupply](minSupply.md) |
-| /ecus/rrc/weatherDependent/nightSwitchOff | [nightSwitchOff](nightSwitchOff.md) |
-| /ecus/rrc/weatherDependent/roomInfluence | [roomInfluence](roomInfluence.md) |
-| /ecus/rrc/weatherDependent/summerSwitchOff | [summerSwitchOff](summerSwitchOff.md) |
-| /gateway/brandID | [brandID](brandID.md) |
-| /gateway/remote/installername | [installername](installername.md) |
-| /gateway/remote/servicestate | [servicestate](servicestate.md) |
-| /gateway/remote/sid | [sid](sid.md) |
-| /gateway/remote/sidexptime | [sidexptime](sidexptime.md) |
-| /gateway/remote/tempsid | [tempsid](tempsid.md) |
-| /gateway/remote/tempsidexptime | [tempsidexptime](tempsidexptime.md) |
-| /gateway/serialnumber | [serialnumber](serialnumber.md) |
-| /gateway/time/timezone | [timezone](timezone.md) |
-| /gateway/update/strategy | [strategy](strategy.md) |
-| /gateway/uuid | [uuid](uuid.md) |
-| /gateway/versionFirmware | [versionFirmware](versionFirmware.md) |
-| /gateway/versionHardware | [versionHardware](versionHardware.md) |
-| /heatingCircuits/hc1/actualSupplyTemperature | [hc1-actualSupplyTemperature](hc1-actualSupplyTemperature.md) |
-| /heatingCircuits/hc1/control | [hc1-control](hc1-control.md) |
-| /heatingCircuits/hc1/holidayMode/activated | [hc1-holidayMode-activated](hc1-holidayMode-activated.md) |
-| /heatingCircuits/hc1/holidayMode/end | [hc1-holidayMode-end](hc1-holidayMode-end.md) |
-| /heatingCircuits/hc1/holidayMode/start | [hc1-holidayMode-start](hc1-holidayMode-start.md) |
-| /heatingCircuits/hc1/holidayMode/status | [hc1-holidayMode-status](hc1-holidayMode-status.md) |
-| /heatingCircuits/hc1/holidayMode/temperature | [hc1-holidayMode-temperature](hc1-holidayMode-temperature.md) |
-| /heatingCircuits/hc1/operationMode | [hc1-operationMode](hc1-operationMode.md) |
-| /heatingCircuits/hc1/temperatureAdjustment | [hc1-temperatureAdjustment](hc1-temperatureAdjustment.md) |
-| /heatingCircuits/hc1/type | [hc1-type](hc1-type.md) |
-| /notifications | [notifications](notifications.md) |
-| /system/appliance/boilermaintenancerequest | [boilermaintenancerequest](boilermaintenancerequest.md) |
-| /system/appliance/causecode | [causecode](causecode.md) |
-| /system/appliance/cm/type | [cm-type](cm-type.md) |
-| /system/appliance/cm/version | [cm-version](cm-version.md) |
-| /system/appliance/displaycode | [displaycode](displaycode.md) |
-| /system/appliance/serialnumber | [serialnumber](serialnumber.md) |
-| /system/appliance/systemPressure | [systemPressure](systemPressure.md) |
-| /system/appliance/type | [appliance-type](appliance-type.md) |
-| /system/appliance/version | [version](version.md) |
-| /system/interfaces/ems/brandbit | [brandbit](brandbit.md) |
-| /system/location/latitude | [latitude](latitude.md) |
-| /system/location/longitude | [Location information - longitude](longitude.md) |
-| /system/sensors/temperatures/outdoor_t1 | [Outdoor Temperature Message](outdoor_t1.md) |
+| EndPoint URL  | Description | Documented | Writable | Recordable |
+| ------------- | ------------- | --- | ------------- | ------------- |
+| /dhwCircuits/dhwA/dhwCurrentSwitchpoint | [dhwCurrentSwitchpoint](dhwCurrentSwitchpoint.md) |[ ]| False | False |
+| /dhwCircuits/dhwA/dhwNextSwitchpoint | [dhwNextSwitchpoint](dhwNextSwitchpoint.md) |[ ]| False | False |
+| /dhwCircuits/dhwA/dhwOffDuringAbsence | [dhwOffDuringAbsence](dhwOffDuringAbsence.md) |[ ]| True | False |
+| /dhwCircuits/dhwA/dhwOffDuringNight | [dhwOffDuringNight](dhwOffDuringNight.md) |[ ]| True | False |
+| /dhwCircuits/dhwA/dhwOperationManualMode | [dhwOperationManualMode](dhwOperationManualMode.md) |[ ]| True | False |
+| /dhwCircuits/dhwA/dhwOperationMode | [dhwOperationMode](dhwOperationMode.md) |[ ]| True | False |
+| /dhwCircuits/dhwA/dhwOperationType | [dhwOperationType](dhwOperationType.md) |[ ]| True | False |
+| /dhwCircuits/dhwA/dhwProgram0 | [dhwProgram0](dhwProgram0.md) |[ ]| True | False |
+| /dhwCircuits/dhwA/dhwProgram1 | [dhwProgram1](dhwProgram1.md) |[ ]| True | False |
+| /dhwCircuits/dhwA/dhwProgram2 | [dhwProgram2](dhwProgram2.md) |[ ]| True | False |
+| /dhwCircuits/dhwA/extraDhw/duration | [extraDhw-duration](extraDhw-duration.md) |[ ]| True | False |
+| /dhwCircuits/dhwA/extraDhw/status | [extraDhw-status](extraDhw-status.md) |[ ]| True | False |
+| /dhwCircuits/dhwA/extraDhw/supported | [extraDhw-supported](extraDhw-supported.md) |[ ]| False | False |
+| /dhwCircuits/dhwA/hotWaterSystem | [hotWaterSystem](hotWaterSystem.md) |[ ]| False | False |
+| /dhwCircuits/dhwA/thermaldesinfect/lastresult | [thermaldesinfect-lastresult](thermaldesinfect-lastresult.md) |[ ]| False | False |
+| /dhwCircuits/dhwA/thermaldesinfect/state | [thermaldesinfect-state](thermaldesinfect-state.md) |[ ]| True | False |
+| /dhwCircuits/dhwA/thermaldesinfect/time | [thermaldesinfect-time](thermaldesinfect-time.md) |[ ]| True | False |
+| /dhwCircuits/dhwA/thermaldesinfect/weekday | [thermaldesinfect-weekday](thermaldesinfect-weekday.md) |[ ]| True | False |
+| /ecus/rrc/homeentrancedetection | [homeentrancedetection](homeentrancedetection.md) |[ ]| Unknown | Unknown |
+| /ecus/rrc/installerdetails | [installerdetails](installerdetails.md) |[ ]| True | False |
+| /ecus/rrc/lockuserinterface | [lockuserinterface](lockuserinterface.md) |[ ]| True | False |
+| /ecus/rrc/personaldetails | [personaldetails](personaldetails.md) |[ ]| True | False |
+| /ecus/rrc/pirSensitivity | [pirSensitivity](pirSensitivity.md) |[ ]| True | False |
+| /ecus/rrc/pm/closingvalve/status | [closingvalve-status](closingvalve-status.md) |[ ]| False | False |
+| /ecus/rrc/pm/ignition/status | [ignition-status](ignition-status.md) |[ ]| False | False |
+| /ecus/rrc/pm/refillneeded/status | [refillneeded-status](refillneeded-status.md) |[ ]| False | False |
+| /ecus/rrc/pm/shorttapping/status | [shorttapping-status](shorttapping-status.md) |[ ]| False | False |
+| /ecus/rrc/pm/systemleaking/status | [systemleaking-status](systemleaking-status.md) |[ ]| False | False |
+| /ecus/rrc/recordings/gasusagePointer | [gasusagePointer](gasusagePointer.md) |[ ]| False | False |
+| /ecus/rrc/recordings/yearTotal | [yearTotal](yearTotal.md) |[ ]| False | False |
+| /ecus/rrc/selflearning/learnedprogram | [learnedprogram](learnedprogram.md) |[ ]| False | False |
+| /ecus/rrc/selflearning/nextSwitchpoint | [nextSwitchpoint](nextSwitchpoint.md) |[ ]| True | False |
+| /ecus/rrc/selflearning/nextSwitchpointEndtime | [nextSwitchpointEndtime](nextSwitchpointEndtime.md) |[ ]| False | False |
+| /ecus/rrc/temperaturestep | [temperaturestep](temperaturestep.md) |[ ]| True | False |
+| /ecus/rrc/uiStatus | [Status Message](uiStatus.md) |[ ]| False | False |
+| /ecus/rrc/userprogram/activeprogram | [activeprogram](activeprogram.md) |[ ]| True | False |
+| /ecus/rrc/userprogram/fireplacefunction | [fireplacefunction](fireplacefunction.md) |[ ]| True | False |
+| /ecus/rrc/userprogram/preheating | [preheating](preheating.md) |[ ]| True | False |
+| /ecus/rrc/userprogram/program0 | [program0](program0.md) |[ ]| True | False |
+| /ecus/rrc/userprogram/program1 | [program1](program1.md) |[ ]| True | False |
+| /ecus/rrc/userprogram/program2 | [program2](program2.md) |[ ]| True | False |
+| /ecus/rrc/userprogram/userswitchpointname1 | [userswitchpointname1](userswitchpointname1.md) |[ ]| True | False |
+| /ecus/rrc/userprogram/userswitchpointname2 | [userswitchpointname2](userswitchpointname2.md) |[ ]| True | False |
+| /ecus/rrc/weatherDependent/basePointSupply | [basePointSupply](basePointSupply.md) |[ ]| True | False |
+| /ecus/rrc/weatherDependent/endPointSupply | [endPointSupply](endPointSupply.md) |[ ]| True | False |
+| /ecus/rrc/weatherDependent/forcedSwitchedOff | [forcedSwitchedOff](forcedSwitchedOff.md) |[ ]| True | False |
+| /ecus/rrc/weatherDependent/maxSupply | [maxSupply](maxSupply.md) |[ ]| True | False |
+| /ecus/rrc/weatherDependent/minSupply | [minSupply](minSupply.md) |[ ]| True | False |
+| /ecus/rrc/weatherDependent/nightSwitchOff | [nightSwitchOff](nightSwitchOff.md) |[ ]| True | False |
+| /ecus/rrc/weatherDependent/roomInfluence | [roomInfluence](roomInfluence.md) |[ ]| True | False |
+| /ecus/rrc/weatherDependent/summerSwitchOff | [summerSwitchOff](summerSwitchOff.md) |[ ]| True | False |
+| /gateway/brandID | [brandID](brandID.md) |[ ]| False | False |
+| /gateway/remote/installername | [installername](installername.md) |[ ]| True | False |
+| /gateway/remote/servicestate | [servicestate](servicestate.md) |[ ]| False | False |
+| /gateway/remote/sid | [sid](sid.md) |[ ]| False | False |
+| /gateway/remote/sidexptime | [sidexptime](sidexptime.md) |[ ]| False | False |
+| /gateway/remote/tempsid | [tempsid](tempsid.md) |[ ]| False | False |
+| /gateway/remote/tempsidexptime | [tempsidexptime](tempsidexptime.md) |[ ]| False | False |
+| /gateway/serialnumber | [serialnumber](serialnumber.md) |[ ]| False | False |
+| /gateway/time/timezone | [timezone](timezone.md) |[ ]| True | False |
+| /gateway/update/strategy | [strategy](strategy.md) |[ ]| True | False |
+| /gateway/uuid | [uuid](uuid.md) |[ ]| False | False |
+| /gateway/versionFirmware | [versionFirmware](versionFirmware.md) |[ ]| False | False |
+| /gateway/versionHardware | [versionHardware](versionHardware.md) |[ ]| False | False |
+| /heatingCircuits/hc1/actualSupplyTemperature | [hc1-actualSupplyTemperature](hc1-actualSupplyTemperature.md) |[ ]| False | False |
+| /heatingCircuits/hc1/control | [hc1-control](hc1-control.md) |[ ]| True | False |
+| /heatingCircuits/hc1/holidayMode/activated | [hc1-holidayMode-activated](hc1-holidayMode-activated.md) |[ ]| True | False |
+| /heatingCircuits/hc1/holidayMode/end | [hc1-holidayMode-end](hc1-holidayMode-end.md) |[ ]| True | False |
+| /heatingCircuits/hc1/holidayMode/start | [hc1-holidayMode-start](hc1-holidayMode-start.md) |[ ]| True | False |
+| /heatingCircuits/hc1/holidayMode/status | [hc1-holidayMode-status](hc1-holidayMode-status.md) |[ ]| True | False |
+| /heatingCircuits/hc1/holidayMode/temperature | [hc1-holidayMode-temperature](hc1-holidayMode-temperature.md) |[ ]| True | False |
+| /heatingCircuits/hc1/operationMode | [hc1-operationMode](hc1-operationMode.md) |[ ]| True | False |
+| /heatingCircuits/hc1/temperatureAdjustment | [hc1-temperatureAdjustment](hc1-temperatureAdjustment.md) |[ ]| True | False |
+| /heatingCircuits/hc1/type | [hc1-type](hc1-type.md) |[ ]| True | False |
+| /notifications | [notifications](notifications.md) |[ ]| False | False |
+| /system/appliance/boilermaintenancerequest | [boilermaintenancerequest](boilermaintenancerequest.md) |[ ]| False | False |
+| /system/appliance/causecode | [causecode](causecode.md) |[ ]| False | False |
+| /system/appliance/cm/type | [cm-type](cm-type.md) |[ ]| False | False |
+| /system/appliance/cm/version | [cm-version](cm-version.md) |[ ]| False | False |
+| /system/appliance/displaycode | [displaycode](displaycode.md) |[ ]| False | False |
+| /system/appliance/serialnumber | [serialnumber](serialnumber.md) |[ ]| False | False |
+| /system/appliance/systemPressure | [systemPressure](systemPressure.md) |[ ]| False | False |
+| /system/appliance/type | [appliance-type](appliance-type.md) |[ ]| False | False |
+| /system/appliance/version | [version](version.md) |[ ]| False | False |
+| /system/interfaces/ems/brandbit | [brandbit](brandbit.md) |[ ]| False | False |
+| /system/location/latitude | [latitude](latitude.md) |[ ]| True | False |
+| /system/location/longitude | [Location information - longitude](longitude.md) |[x]| True | False |
+| /system/sensors/temperatures/outdoor_t1 | [Outdoor Temperature Message](outdoor_t1.md) |[ ]| False | False |

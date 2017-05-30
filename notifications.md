@@ -7,8 +7,8 @@
 | Info  | Details |
 | ------------- | ------------- |
 | URL   | /notifications   |
-| Recordable   | 0   |
-| Writable   | 0   |
+| Recordable   | False   |
+| Writable   | False   |
 | Parameters  | N/A  |
 
 ### Detailed Content

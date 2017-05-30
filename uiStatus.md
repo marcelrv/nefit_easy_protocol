@@ -7,8 +7,8 @@ Provides status information
 | Info  | Details |
 | ------------- | ------------- |
 | URL   | /ecus/rrc/uiStatus   |
-| Recordable   | 0   |
-| Writable   | 0   |
+| Recordable   | False   |
+| Writable   | False   |
 | Parameters  | N/A  |
 
 ### Detailed Content

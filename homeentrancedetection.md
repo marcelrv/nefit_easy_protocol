@@ -7,6 +7,8 @@
 | Info  | Details |
 | ------------- | ------------- |
 | URL   | /ecus/rrc/homeentrancedetection   |
+| Recordable   | Unknown   |
+| Writable   | Unknown   |
 | Parameters  | N/A  |
 
 ### Detailed Content
