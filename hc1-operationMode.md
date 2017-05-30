@@ -1,6 +1,5 @@
-# hc1-operationMode
+# 
 
-hc1-operationMode message
 
 
 ### Endpoint
@@ -11,6 +10,21 @@ hc1-operationMode message
 | Recordable   | 0   |
 | Writable   | 1   |
 | Parameters  | N/A  |
+
+## Detailed Content
+
+|  Key  | Example | Description |
+| ------------- | :------: | ------------- |
+hc1-operationMode message
+|  id | /heatingCircuits/hc1/operationMode | Message ID (URL) |
+hc1-operationMode message
+|  recordable | 0 | Recordable parameter (0=No) |
+hc1-operationMode message
+|  type | stringValue | Data type of value |
+hc1-operationMode message
+|  value | auto |  |
+hc1-operationMode message
+|  writeable | 1 | Writable parameter (0=No) |
 
 ### Example
 ```

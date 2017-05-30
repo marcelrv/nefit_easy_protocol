@@ -1,6 +1,5 @@
-# program0
+# 
 
-program0 message
 
 
 ### Endpoint
@@ -11,6 +10,21 @@ program0 message
 | Recordable   | 0   |
 | Writable   | 1   |
 | Parameters  | N/A  |
+
+## Detailed Content
+
+|  Key  | Example | Description |
+| ------------- | :------: | ------------- |
+program0 message
+|  id | /ecus/rrc/userprogram/program0 | Message ID (URL) |
+program0 message
+|  recordable | 0 | Recordable parameter (0=No) |
+program0 message
+|  type | UserProgram | Data type of value |
+program0 message
+|  value | [{u'active': u'on', u't': 480, u'T': 20, u'name': 1, u'd': u'Su'}, {u'active': u'off', u't': 0, u'T': 5, u'name': 0, u'd': u'Su'}, {u'active': u'off', u't': 0, u'T': 5, u'name': 0, u'd': u'Su'}, {u'active': u'on', u't': 1380, u'T': 15, u'name': 0, u'd': u'Su'}, {u'active': u'off', u't': 0, u'T': 5, u'name': 0, u'd': u'Su'}, {u'active': u'off', u't': 0, u'T': 5, u'name': 0, u'd': u'Su'}, {u'active': u'on', u't': 420, u'T': 19, u'name': 1, u'd': u'Mo'}, {u'active': u'on', u't': 540, u'T': 17, u'name': 2, u'd': u'Mo'}, {u'active': u'on', u't': 1020, u'T': 20, u'name': 3, u'd': u'Mo'}, {u'active': u'on', u't': 1380, u'T': 15, u'name': 0, u'd': u'Mo'}, {u'active': u'off', u't': 0, u'T': 5, u'name': 0, u'd': u'Mo'}, {u'active': u'off', u't': 0, u'T': 5, u'name': 0, u'd': u'Mo'}, {u'active': u'on', u't': 420, u'T': 19, u'name': 1, u'd': u'Tu'}, {u'active': u'on', u't': 540, u'T': 17, u'name': 2, u'd': u'Tu'}, {u'active': u'on', u't': 1020, u'T': 20, u'name': 3, u'd': u'Tu'}, {u'active': u'on', u't': 1380, u'T': 15, u'name': 0, u'd': u'Tu'}, {u'active': u'off', u't': 0, u'T': 5, u'name': 0, u'd': u'Tu'}, {u'active': u'off', u't': 0, u'T': 5, u'name': 0, u'd': u'Tu'}, {u'active': u'on', u't': 420, u'T': 19, u'name': 1, u'd': u'We'}, {u'active': u'on', u't': 540, u'T': 17, u'name': 2, u'd': u'We'}, {u'active': u'on', u't': 1020, u'T': 20, u'name': 3, u'd': u'We'}, {u'active': u'on', u't': 1380, u'T': 15, u'name': 0, u'd': u'We'}, {u'active': u'off', u't': 0, u'T': 5, u'name': 0, u'd': u'We'}, {u'active': u'off', u't': 0, u'T': 5, u'name': 0, u'd': u'We'}, {u'active': u'on', u't': 420, u'T': 19, u'name': 1, u'd': u'Th'}, {u'active': u'on', u't': 540, u'T': 17, u'name': 2, u'd': u'Th'}, {u'active': u'on', u't': 1020, u'T': 20, u'name': 3, u'd': u'Th'}, {u'active': u'on', u't': 1380, u'T': 15, u'name': 0, u'd': u'Th'}, {u'active': u'off', u't': 0, u'T': 5, u'name': 0, u'd': u'Th'}, {u'active': u'off', u't': 0, u'T': 5, u'name': 0, u'd': u'Th'}, {u'active': u'on', u't': 420, u'T': 19, u'name': 1, u'd': u'Fr'}, {u'active': u'on', u't': 540, u'T': 17, u'name': 2, u'd': u'Fr'}, {u'active': u'on', u't': 1020, u'T': 20, u'name': 3, u'd': u'Fr'}, {u'active': u'on', u't': 1380, u'T': 15, u'name': 0, u'd': u'Fr'}, {u'active': u'off', u't': 0, u'T': 5, u'name': 0, u'd': u'Fr'}, {u'active': u'off', u't': 0, u'T': 5, u'name': 0, u'd': u'Fr'}, {u'active': u'on', u't': 480, u'T': 20, u'name': 1, u'd': u'Sa'}, {u'active': u'off', u't': 0, u'T': 5, u'name': 0, u'd': u'Sa'}, {u'active': u'off', u't': 0, u'T': 5, u'name': 0, u'd': u'Sa'}, {u'active': u'on', u't': 1380, u'T': 15, u'name': 0, u'd': u'Sa'}, {u'active': u'off', u't': 0, u'T': 5, u'name': 0, u'd': u'Sa'}, {u'active': u'off', u't': 0, u'T': 5, u'name': 0, u'd': u'Sa'}] |  |
+program0 message
+|  writeable | 1 | Writable parameter (0=No) |
 
 ### Example
 ```

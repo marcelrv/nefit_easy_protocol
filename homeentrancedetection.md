@@ -1,6 +1,5 @@
-# homeentrancedetection
+# 
 
-homeentrancedetection message
 
 
 ### Endpoint
@@ -9,6 +8,17 @@ homeentrancedetection message
 | ------------- | ------------- |
 | URL   | /ecus/rrc/homeentrancedetection   |
 | Parameters  | N/A  |
+
+## Detailed Content
+
+|  Key  | Example | Description |
+| ------------- | :------: | ------------- |
+homeentrancedetection message
+|  id | /ecus/rrc/homeentrancedetection | Message ID (URL) |
+homeentrancedetection message
+|  references | [{u'id': u'/ecus/rrc/homeentrancedetection/option'}, {u'id': u'/ecus/rrc/homeentrancedetection/userprofile0'}, {u'id': u'/ecus/rrc/homeentrancedetection/userprofile1'}, {u'id': u'/ecus/rrc/homeentrancedetection/userprofile2'}, {u'id': u'/ecus/rrc/homeentrancedetection/userprofile3'}, {u'id': u'/ecus/rrc/homeentrancedetection/userprofile4'}, {u'id': u'/ecus/rrc/homeentrancedetection/userprofile5'}, {u'id': u'/ecus/rrc/homeentrancedetection/userprofile6'}, {u'id': u'/ecus/rrc/homeentrancedetection/userprofile7'}, {u'id': u'/ecus/rrc/homeentrancedetection/userprofile8'}, {u'id': u'/ecus/rrc/homeentrancedetection/userprofile9'}] |  |
+homeentrancedetection message
+|  type | refEnum | Data type of value |
 
 ### Example
 ```

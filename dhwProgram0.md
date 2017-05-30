@@ -1,6 +1,5 @@
-# dhwProgram0
+# 
 
-dhwProgram0 message
 
 
 ### Endpoint
@@ -11,6 +10,21 @@ dhwProgram0 message
 | Recordable   | 0   |
 | Writable   | 1   |
 | Parameters  | N/A  |
+
+## Detailed Content
+
+|  Key  | Example | Description |
+| ------------- | :------: | ------------- |
+dhwProgram0 message
+|  id | /dhwCircuits/dhwA/dhwProgram0 | Message ID (URL) |
+dhwProgram0 message
+|  recordable | 0 | Recordable parameter (0=No) |
+dhwProgram0 message
+|  type | DhwProgram | Data type of value |
+dhwProgram0 message
+|  value | [{u'active': u'on', u'dhw': u'on', u'd': u'Su', u't': 480}, {u'active': u'on', u'dhw': u'off', u'd': u'Su', u't': 1380}, {u'active': u'off', u'dhw': u'off', u'd': u'Su', u't': 0}, {u'active': u'off', u'dhw': u'off', u'd': u'Su', u't': 0}, {u'active': u'off', u'dhw': u'off', u'd': u'Su', u't': 0}, {u'active': u'off', u'dhw': u'off', u'd': u'Su', u't': 0}, {u'active': u'on', u'dhw': u'on', u'd': u'Mo', u't': 420}, {u'active': u'on', u'dhw': u'off', u'd': u'Mo', u't': 540}, {u'active': u'on', u'dhw': u'on', u'd': u'Mo', u't': 1020}, {u'active': u'on', u'dhw': u'off', u'd': u'Mo', u't': 1380}, {u'active': u'off', u'dhw': u'off', u'd': u'Mo', u't': 0}, {u'active': u'off', u'dhw': u'off', u'd': u'Mo', u't': 0}, {u'active': u'on', u'dhw': u'on', u'd': u'Tu', u't': 420}, {u'active': u'on', u'dhw': u'off', u'd': u'Tu', u't': 540}, {u'active': u'on', u'dhw': u'on', u'd': u'Tu', u't': 1020}, {u'active': u'on', u'dhw': u'off', u'd': u'Tu', u't': 1380}, {u'active': u'off', u'dhw': u'off', u'd': u'Tu', u't': 0}, {u'active': u'off', u'dhw': u'off', u'd': u'Tu', u't': 0}, {u'active': u'on', u'dhw': u'on', u'd': u'We', u't': 420}, {u'active': u'on', u'dhw': u'off', u'd': u'We', u't': 540}, {u'active': u'on', u'dhw': u'on', u'd': u'We', u't': 1020}, {u'active': u'on', u'dhw': u'off', u'd': u'We', u't': 1380}, {u'active': u'off', u'dhw': u'off', u'd': u'We', u't': 0}, {u'active': u'off', u'dhw': u'off', u'd': u'We', u't': 0}, {u'active': u'on', u'dhw': u'on', u'd': u'Th', u't': 420}, {u'active': u'on', u'dhw': u'off', u'd': u'Th', u't': 540}, {u'active': u'on', u'dhw': u'on', u'd': u'Th', u't': 1020}, {u'active': u'on', u'dhw': u'off', u'd': u'Th', u't': 1380}, {u'active': u'off', u'dhw': u'off', u'd': u'Th', u't': 0}, {u'active': u'off', u'dhw': u'off', u'd': u'Th', u't': 0}, {u'active': u'on', u'dhw': u'on', u'd': u'Fr', u't': 420}, {u'active': u'on', u'dhw': u'off', u'd': u'Fr', u't': 540}, {u'active': u'on', u'dhw': u'on', u'd': u'Fr', u't': 1020}, {u'active': u'on', u'dhw': u'off', u'd': u'Fr', u't': 1380}, {u'active': u'off', u'dhw': u'off', u'd': u'Fr', u't': 0}, {u'active': u'off', u'dhw': u'off', u'd': u'Fr', u't': 0}, {u'active': u'on', u'dhw': u'on', u'd': u'Sa', u't': 480}, {u'active': u'on', u'dhw': u'off', u'd': u'Sa', u't': 1380}, {u'active': u'off', u'dhw': u'off', u'd': u'Sa', u't': 0}, {u'active': u'off', u'dhw': u'off', u'd': u'Sa', u't': 0}, {u'active': u'off', u'dhw': u'off', u'd': u'Sa', u't': 0}, {u'active': u'off', u'dhw': u'off', u'd': u'Sa', u't': 0}] |  |
+dhwProgram0 message
+|  writeable | 1 | Writable parameter (0=No) |
 
 ### Example
 ```

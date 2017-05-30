@@ -1,6 +1,5 @@
-# thermaldesinfect-lastresult
+# 
 
-thermaldesinfect-lastresult message
 
 
 ### Endpoint
@@ -11,6 +10,21 @@ thermaldesinfect-lastresult message
 | Recordable   | 0   |
 | Writable   | 0   |
 | Parameters  | N/A  |
+
+## Detailed Content
+
+|  Key  | Example | Description |
+| ------------- | :------: | ------------- |
+thermaldesinfect-lastresult message
+|  id | /dhwCircuits/dhwA/thermaldesinfect/lastresult | Message ID (URL) |
+thermaldesinfect-lastresult message
+|  recordable | 0 | Recordable parameter (0=No) |
+thermaldesinfect-lastresult message
+|  type | stringValue | Data type of value |
+thermaldesinfect-lastresult message
+|  value | Done |  |
+thermaldesinfect-lastresult message
+|  writeable | 0 | Writable parameter (0=No) |
 
 ### Example
 ```
