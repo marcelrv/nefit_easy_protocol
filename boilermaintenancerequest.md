@@ -14,16 +14,11 @@
 ## Detailed Content
 
 |  Key  | Example | Description |
-| ------------- | :------: | ------------- |
-boilermaintenancerequest message
+| ------------- | :------: | ------------------------------ |
 |  id | /system/appliance/boilermaintenancerequest | Message ID (URL) |
-boilermaintenancerequest message
 |  recordable | 0 | Recordable parameter (0=No) |
-boilermaintenancerequest message
 |  type | stringValue | Data type of value |
-boilermaintenancerequest message
 |  value | false |  |
-boilermaintenancerequest message
 |  writeable | 0 | Writable parameter (0=No) |
 
 ### Example

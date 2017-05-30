@@ -14,16 +14,11 @@
 ## Detailed Content
 
 |  Key  | Example | Description |
-| ------------- | :------: | ------------- |
-brandID message
+| ------------- | :------: | ------------------------------ |
 |  id | /gateway/brandID | Message ID (URL) |
-brandID message
 |  recordable | 0 | Recordable parameter (0=No) |
-brandID message
 |  type | stringValue | Data type of value |
-brandID message
 |  value | 0x4 |  |
-brandID message
 |  writeable | 0 | Writable parameter (0=No) |
 
 ### Example

@@ -14,16 +14,11 @@
 ## Detailed Content
 
 |  Key  | Example | Description |
-| ------------- | :------: | ------------- |
-uuid message
+| ------------- | :------: | ------------------------------ |
 |  id | /gateway/uuid | Message ID (URL) |
-uuid message
 |  recordable | 0 | Recordable parameter (0=No) |
-uuid message
 |  type | stringValue | Data type of value |
-uuid message
 |  value | 123456789 |  |
-uuid message
 |  writeable | 0 | Writable parameter (0=No) |
 
 ### Example

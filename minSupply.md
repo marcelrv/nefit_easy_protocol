@@ -14,22 +14,14 @@
 ## Detailed Content
 
 |  Key  | Example | Description |
-| ------------- | :------: | ------------- |
-minSupply message
+| ------------- | :------: | ------------------------------ |
 |  id | /ecus/rrc/weatherDependent/minSupply | Message ID (URL) |
-minSupply message
 |  maxValue | 90 |  |
-minSupply message
 |  minValue | 10 |  |
-minSupply message
 |  recordable | 0 | Recordable parameter (0=No) |
-minSupply message
 |  type | floatValue | Data type of value |
-minSupply message
 |  unitOfMeasure | C |  |
-minSupply message
 |  value | 20 |  |
-minSupply message
 |  writeable | 1 | Writable parameter (0=No) |
 
 ### Example

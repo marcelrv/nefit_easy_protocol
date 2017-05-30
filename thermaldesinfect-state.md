@@ -14,16 +14,11 @@
 ## Detailed Content
 
 |  Key  | Example | Description |
-| ------------- | :------: | ------------- |
-thermaldesinfect-state message
+| ------------- | :------: | ------------------------------ |
 |  id | /dhwCircuits/dhwA/thermaldesinfect/state | Message ID (URL) |
-thermaldesinfect-state message
 |  recordable | 0 | Recordable parameter (0=No) |
-thermaldesinfect-state message
 |  type | stringValue | Data type of value |
-thermaldesinfect-state message
 |  value | off |  |
-thermaldesinfect-state message
 |  writeable | 1 | Writable parameter (0=No) |
 
 ### Example

@@ -14,22 +14,14 @@
 ## Detailed Content
 
 |  Key  | Example | Description |
-| ------------- | :------: | ------------- |
-gasusagePointer message
+| ------------- | :------: | ------------------------------ |
 |  id | /ecus/rrc/recordings/gasusagePointer | Message ID (URL) |
-gasusagePointer message
 |  maxValue | 6400 |  |
-gasusagePointer message
 |  minValue | 1 |  |
-gasusagePointer message
 |  recordable | 0 | Recordable parameter (0=No) |
-gasusagePointer message
 |  type | floatValue | Data type of value |
-gasusagePointer message
 |  unitOfMeasure |  |  |
-gasusagePointer message
 |  value | 7 |  |
-gasusagePointer message
 |  writeable | 0 | Writable parameter (0=No) |
 
 ### Example

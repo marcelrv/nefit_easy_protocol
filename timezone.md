@@ -14,16 +14,11 @@
 ## Detailed Content
 
 |  Key  | Example | Description |
-| ------------- | :------: | ------------- |
-timezone message
+| ------------- | :------: | ------------------------------ |
 |  id | /gateway/time/timezone | Message ID (URL) |
-timezone message
 |  recordable | 0 | Recordable parameter (0=No) |
-timezone message
 |  type | stringValue | Data type of value |
-timezone message
 |  value | Europe/Amsterdam |  |
-timezone message
 |  writeable | 1 | Writable parameter (0=No) |
 
 ### Example

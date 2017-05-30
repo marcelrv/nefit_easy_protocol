@@ -14,16 +14,11 @@
 ## Detailed Content
 
 |  Key  | Example | Description |
-| ------------- | :------: | ------------- |
-lockuserinterface message
+| ------------- | :------: | ------------------------------ |
 |  id | /ecus/rrc/lockuserinterface | Message ID (URL) |
-lockuserinterface message
 |  recordable | 0 | Recordable parameter (0=No) |
-lockuserinterface message
 |  type | stringValue | Data type of value |
-lockuserinterface message
 |  value | false |  |
-lockuserinterface message
 |  writeable | 1 | Writable parameter (0=No) |
 
 ### Example

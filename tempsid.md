@@ -14,16 +14,11 @@
 ## Detailed Content
 
 |  Key  | Example | Description |
-| ------------- | :------: | ------------- |
-tempsid message
+| ------------- | :------: | ------------------------------ |
 |  id | /gateway/remote/tempsid | Message ID (URL) |
-tempsid message
 |  recordable | 0 | Recordable parameter (0=No) |
-tempsid message
 |  type | stringValue | Data type of value |
-tempsid message
-|  value | E09A2E |  |
-tempsid message
+|  value | E09AAA |  |
 |  writeable | 0 | Writable parameter (0=No) |
 
 ### Example
@@ -32,7 +27,7 @@ tempsid message
     "id": "/gateway/remote/tempsid",
     "recordable": 0,
     "type": "stringValue",
-    "value": "E09A2E",
+    "value": "E09AAA",
     "writeable": 0
 }
 ```

@@ -14,16 +14,11 @@
 ## Detailed Content
 
 |  Key  | Example | Description |
-| ------------- | :------: | ------------- |
-version message
+| ------------- | :------: | ------------------------------ |
 |  id | /system/appliance/version | Message ID (URL) |
-version message
 |  recordable | 0 | Recordable parameter (0=No) |
-version message
 |  type | stringValue | Data type of value |
-version message
 |  value | 1.8 |  |
-version message
 |  writeable | 0 | Writable parameter (0=No) |
 
 ### Example

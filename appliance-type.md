@@ -14,16 +14,11 @@
 ## Detailed Content
 
 |  Key  | Example | Description |
-| ------------- | :------: | ------------- |
-appliance-type message
+| ------------- | :------: | ------------------------------ |
 |  id | /system/appliance/type | Message ID (URL) |
-appliance-type message
 |  recordable | 0 | Recordable parameter (0=No) |
-appliance-type message
 |  type | stringValue | Data type of value |
-appliance-type message
 |  value | 0xCE |  |
-appliance-type message
 |  writeable | 0 | Writable parameter (0=No) |
 
 ### Example
