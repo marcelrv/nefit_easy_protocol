@@ -13,7 +13,7 @@
 | [dhwProgram1](dhwProgram1.md) | /dhwCircuits/dhwA/dhwProgram1 |  | True | False |
 | [dhwProgram2](dhwProgram2.md) | /dhwCircuits/dhwA/dhwProgram2 |  | True | False |
 | [extraDhw-duration](extraDhw-duration.md) | /dhwCircuits/dhwA/extraDhw/duration |  | True | False |
-| [extraDhw-status](extraDhw-status.md) | /dhwCircuits/dhwA/extraDhw/status |  | True | False |
+| [Hot Water Status](extraDhw-status.md) | /dhwCircuits/dhwA/extraDhw/status |  | True | False |
 | [extraDhw-supported](extraDhw-supported.md) | /dhwCircuits/dhwA/extraDhw/supported |  | False | False |
 | [hotWaterSystem](hotWaterSystem.md) | /dhwCircuits/dhwA/hotWaterSystem |  | False | False |
 | [thermaldesinfect-lastresult](thermaldesinfect-lastresult.md) | /dhwCircuits/dhwA/thermaldesinfect/lastresult |  | False | False |
@@ -30,7 +30,7 @@
 | [refillneeded-status](refillneeded-status.md) | /ecus/rrc/pm/refillneeded/status |  | False | False |
 | [shorttapping-status](shorttapping-status.md) | /ecus/rrc/pm/shorttapping/status |  | False | False |
 | [systemleaking-status](systemleaking-status.md) | /ecus/rrc/pm/systemleaking/status |  | False | False |
-| [Gas Usage History](gasusage.md) | /ecus/rrc/recordings/gasusage |  | False | False |
+| [Gas Usage History](gasusage.md) | /ecus/rrc/recordings/gasusage | :heavy_check_mark: | False | False |
 | [gasusagePointer](gasusagePointer.md) | /ecus/rrc/recordings/gasusagePointer |  | False | False |
 | [Overall Gas Usage (YTD)](yearTotal.md) | /ecus/rrc/recordings/yearTotal | :heavy_check_mark: | False | False |
 | [learnedprogram](learnedprogram.md) | /ecus/rrc/selflearning/learnedprogram |  | False | False |
@@ -84,7 +84,7 @@
 | [cm-version](cm-version.md) | /system/appliance/cm/version |  | False | False |
 | [displaycode](displaycode.md) | /system/appliance/displaycode |  | False | False |
 | [serialnumber](serialnumber.md) | /system/appliance/serialnumber |  | False | False |
-| [systemPressure](systemPressure.md) | /system/appliance/systemPressure |  | False | False |
+| [System Pressure](systemPressure.md) | /system/appliance/systemPressure |  | False | False |
 | [appliance-type](appliance-type.md) | /system/appliance/type |  | False | False |
 | [version](version.md) | /system/appliance/version |  | False | False |
 | [brandbit](brandbit.md) | /system/interfaces/ems/brandbit |  | False | False |

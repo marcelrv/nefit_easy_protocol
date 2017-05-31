@@ -1,4 +1,4 @@
-# systemPressure
+# System Pressure
 
 
 
@@ -21,7 +21,7 @@
 |  recordable | 0 | Recordable parameter (0=No) |
 |  type | floatValue | Data type of value |
 |  unitOfMeasure | bar | Unit of Measure |
-|  value | 25.5 |  |
+|  value | 25.5 | Water Pressure |
 |  writeable | 0 | Writable parameter (0=No) |
 
 

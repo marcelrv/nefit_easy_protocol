@@ -29,7 +29,7 @@ For LPG usage, the conversion factor is 0.040742416F.
 |  recordable | 0 | Recordable parameter (0=No) |
 |  type | recordings | Data type of value |
 |  value | [{u'ch': 0, u'T': 226, u'hw': 3.8, u'd': u'29-05-2017'}, {u'ch': 0, u'T': 211, u'hw': 7.2, u'd': u'30-05-2017'}, {u'ch': 6553.5, u'T': -1, u'hw': 6553.5, u'd': u'255-256-65535'}] | Gas Usage Records for each day formatted in JSON
- t=average outdoor temperature
+ t=average outdoor temperature (*10)
 ch=Central Heating
 d=Date formatted as DD-MM-YYYY hw=Hot Water |
 |  writeable | 0 | Writable parameter (0=No) |
