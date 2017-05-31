@@ -1,6 +1,12 @@
 # Gas Usage History
 
-This message provides the gas usage history.\r\nValues are in kWh with 32 days of history per page.\r\nTo convert to m3, the Easy uses a conversion factor of 0.12307692F (kWh * 0.12307692f = m3) for natural gas (which means a calorific value of 29MJ/m3).\r\nFor LPG usage, the conversion factor is 0.040742416F.\r\n\r\nAs there are 32 entries per page, the current gasusage pointer needs to be divided by 32\r\n
+This message provides the gas usage history.
+Values are in kWh with 32 days of history per page.
+To convert to m3, the Easy uses a conversion factor of 0.12307692F (kWh * 0.12307692f = m3) for natural gas (which means a calorific value of 29MJ/m3).
+For LPG usage, the conversion factor is 0.040742416F.
+
+As there are 32 entries per page, the current gasusage pointer needs to be divided by 32
+
 
 ### Endpoint
 
