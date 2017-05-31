@@ -7,7 +7,9 @@ As there are 32 entries per page, the current gasusage pointer needs to be divid
 
 
 
-To convert to m3, the Easy uses a conversion factor of 0.12307692F (kWh * 0.12307692f = m3) for natural gas (which means a calorific value of 29MJ/m3).r\nFor LPG usage, the conversion factor is 0.040742416F.
+To convert to m3, the Easy uses a conversion factor of 0.12307692F (kWh * 0.12307692f = m3) for natural gas (which means a calorific value of 29MJ/m3).
+
+For LPG usage, the conversion factor is 0.040742416F.
 
 
 ### Endpoint
