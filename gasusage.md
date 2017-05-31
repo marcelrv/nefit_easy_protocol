@@ -1,6 +1,8 @@
 # Gas Usage History
 
-Gas Usage History. 
+Gas Usage History. Value is in kWh.
+To convert to m3, the Easy uses a conversion factor of 0.12307692F (kWh * 0.12307692f = m3) for natural gas (which means a calorific value of 29MJ/m3).
+For LPG usage, the conversion factor is 0.040742416F.
 
 ### Endpoint
 
