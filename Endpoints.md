@@ -30,8 +30,9 @@
 | [refillneeded-status](refillneeded-status.md) | /ecus/rrc/pm/refillneeded/status |  | False | False |
 | [shorttapping-status](shorttapping-status.md) | /ecus/rrc/pm/shorttapping/status |  | False | False |
 | [systemleaking-status](systemleaking-status.md) | /ecus/rrc/pm/systemleaking/status |  | False | False |
+| [Gas Usage History](gasusage.md) | /ecus/rrc/recordings/gasusage |  | False | False |
 | [gasusagePointer](gasusagePointer.md) | /ecus/rrc/recordings/gasusagePointer |  | False | False |
-| [yearTotal](yearTotal.md) | /ecus/rrc/recordings/yearTotal |  | False | False |
+| [Overall Gas Usage (YTD)](yearTotal.md) | /ecus/rrc/recordings/yearTotal | :heavy_check_mark: | False | False |
 | [learnedprogram](learnedprogram.md) | /ecus/rrc/selflearning/learnedprogram |  | False | False |
 | [nextSwitchpoint](nextSwitchpoint.md) | /ecus/rrc/selflearning/nextSwitchpoint |  | True | False |
 | [nextSwitchpointEndtime](nextSwitchpointEndtime.md) | /ecus/rrc/selflearning/nextSwitchpointEndtime |  | False | False |
@@ -87,6 +88,6 @@
 | [appliance-type](appliance-type.md) | /system/appliance/type |  | False | False |
 | [version](version.md) | /system/appliance/version |  | False | False |
 | [brandbit](brandbit.md) | /system/interfaces/ems/brandbit |  | False | False |
-| [latitude](latitude.md) | /system/location/latitude |  | True | False |
+| [Location Information - latitude](latitude.md) | /system/location/latitude | :heavy_check_mark: | True | False |
 | [Location information - longitude](longitude.md) | /system/location/longitude | :heavy_check_mark: | True | False |
-| [Outdoor Temperature Message](outdoor_t1.md) | /system/sensors/temperatures/outdoor_t1 |  | False | False |
+| [Outdoor Temperature Message](outdoor_t1.md) | /system/sensors/temperatures/outdoor_t1 | :heavy_check_mark: | False | False |

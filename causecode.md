@@ -16,11 +16,11 @@
 |  Key  | Example | Description |
 | ------------- | :------: | ------------------------------ |
 |  id | /system/appliance/causecode | Message ID (URL) |
-|  maxValue | 65535 |  |
-|  minValue | 200 |  |
+|  maxValue | 65535 | Maximum allowed value |
+|  minValue | 200 | Minimum allowed value |
 |  recordable | 0 | Recordable parameter (0=No) |
 |  type | floatValue | Data type of value |
-|  unitOfMeasure |  |  |
+|  unitOfMeasure |  | Unit of Measure |
 |  value | 0 |  |
 |  writeable | 0 | Writable parameter (0=No) |
 

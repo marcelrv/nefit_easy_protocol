@@ -1,6 +1,6 @@
-# yearTotal
+# Overall Gas Usage (YTD)
 
-
+Provides the Gas Usage -Year To Date
 
 ### Endpoint
 
@@ -16,12 +16,12 @@
 |  Key  | Example | Description |
 | ------------- | :------: | ------------------------------ |
 |  id | /ecus/rrc/recordings/yearTotal | Message ID (URL) |
-|  maxValue | 429496729.5 |  |
-|  minValue | 0 |  |
+|  maxValue | 429496729.5 | Maximum allowed value |
+|  minValue | 0 | Minimum allowed value |
 |  recordable | 0 | Recordable parameter (0=No) |
 |  type | floatValue | Data type of value |
-|  unitOfMeasure | kWh |  |
-|  value | 30.2 |  |
+|  unitOfMeasure | kWh | Unit of Measure |
+|  value | 30.2 | YTD Usage |
 |  writeable | 0 | Writable parameter (0=No) |
 
 

@@ -16,11 +16,11 @@
 |  Key  | Example | Description |
 | ------------- | :------: | ------------------------------ |
 |  id | /heatingCircuits/hc1/holidayMode/temperature | Message ID (URL) |
-|  maxValue | 30 |  |
-|  minValue | 5 |  |
+|  maxValue | 30 | Maximum allowed value |
+|  minValue | 5 | Minimum allowed value |
 |  recordable | 0 | Recordable parameter (0=No) |
 |  type | floatValue | Data type of value |
-|  unitOfMeasure | C |  |
+|  unitOfMeasure | C | Unit of Measure |
 |  value | 10 |  |
 |  writeable | 1 | Writable parameter (0=No) |
 

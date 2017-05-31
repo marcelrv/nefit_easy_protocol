@@ -16,11 +16,11 @@
 |  Key  | Example | Description |
 | ------------- | :------: | ------------------------------ |
 |  id | /heatingCircuits/hc1/temperatureAdjustment | Message ID (URL) |
-|  maxValue | 2 |  |
-|  minValue | -2 |  |
+|  maxValue | 2 | Maximum allowed value |
+|  minValue | -2 | Minimum allowed value |
 |  recordable | 0 | Recordable parameter (0=No) |
 |  type | floatValue | Data type of value |
-|  unitOfMeasure | C |  |
+|  unitOfMeasure | C | Unit of Measure |
 |  value | 0 |  |
 |  writeable | 1 | Writable parameter (0=No) |
 

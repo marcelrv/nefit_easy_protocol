@@ -16,11 +16,11 @@
 |  Key  | Example | Description |
 | ------------- | :------: | ------------------------------ |
 |  id | /dhwCircuits/dhwA/extraDhw/duration | Message ID (URL) |
-|  maxValue | 60 |  |
-|  minValue | 5 |  |
+|  maxValue | 60 | Maximum allowed value |
+|  minValue | 5 | Minimum allowed value |
 |  recordable | 0 | Recordable parameter (0=No) |
 |  type | floatValue | Data type of value |
-|  unitOfMeasure | Min |  |
+|  unitOfMeasure | Min | Unit of Measure |
 |  value | 20 |  |
 |  writeable | 1 | Writable parameter (0=No) |
 

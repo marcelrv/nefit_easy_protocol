@@ -17,8 +17,11 @@ To use these endpoints, install the [Nefit Easy™ HTTP server](https://github.c
 
 
 ## Current described messages
-* [longitude](longitude.md)
+* [Overall Gas Usage (YTD)](yearTotal.md)
+* [latitude](latitude.md)
+* [Location information - longitude](longitude.md)
 * [Outdoor Temperature Message](outdoor_t1.md)
+
 
 
 If you want to contribute, pull requests are welcome!

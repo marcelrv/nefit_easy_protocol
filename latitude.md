@@ -1,6 +1,6 @@
-# latitude
+# Location Information - latitude
 
-
+Provides the location of the thermostat for outside temperature data
 
 ### Endpoint
 
@@ -18,7 +18,7 @@
 |  id | /system/location/latitude | Message ID (URL) |
 |  recordable | 0 | Recordable parameter (0=No) |
 |  type | stringValue | Data type of value |
-|  value | 51.123456 |  |
+|  value | 51.123456 | Location Latitude |
 |  writeable | 1 | Writable parameter (0=No) |
 
 

@@ -16,11 +16,11 @@
 |  Key  | Example | Description |
 | ------------- | :------: | ------------------------------ |
 |  id | /heatingCircuits/hc1/actualSupplyTemperature | Message ID (URL) |
-|  maxValue | 100 |  |
-|  minValue | 0 |  |
+|  maxValue | 100 | Maximum allowed value |
+|  minValue | 0 | Minimum allowed value |
 |  recordable | 0 | Recordable parameter (0=No) |
 |  type | floatValue | Data type of value |
-|  unitOfMeasure | C |  |
+|  unitOfMeasure | C | Unit of Measure |
 |  value | 30 |  |
 |  writeable | 0 | Writable parameter (0=No) |
 

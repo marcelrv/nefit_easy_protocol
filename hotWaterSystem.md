@@ -16,11 +16,11 @@
 |  Key  | Example | Description |
 | ------------- | :------: | ------------------------------ |
 |  id | /dhwCircuits/dhwA/hotWaterSystem | Message ID (URL) |
-|  maxValue | 4 |  |
-|  minValue | 0 |  |
+|  maxValue | 4 | Maximum allowed value |
+|  minValue | 0 | Minimum allowed value |
 |  recordable | 0 | Recordable parameter (0=No) |
 |  type | floatValue | Data type of value |
-|  unitOfMeasure |  |  |
+|  unitOfMeasure |  | Unit of Measure |
 |  value | 1 |  |
 |  writeable | 0 | Writable parameter (0=No) |
 
