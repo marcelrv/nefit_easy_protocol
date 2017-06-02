@@ -39,7 +39,7 @@
 | [temperaturestep](temperaturestep.md) | /ecus/rrc/temperaturestep |  | True | False |
 | [Status Message](uiStatus.md) | /ecus/rrc/uiStatus |  | False | False |
 | [activeprogram](activeprogram.md) | /ecus/rrc/userprogram/activeprogram |  | True | False |
-| [fireplacefunction](fireplacefunction.md) | /ecus/rrc/userprogram/fireplacefunction |  | True | False |
+| [Fireplace Mode](fireplacefunction.md) | /ecus/rrc/userprogram/fireplacefunction | :heavy_check_mark: | True | False |
 | [preheating](preheating.md) | /ecus/rrc/userprogram/preheating |  | True | False |
 | [program0](program0.md) | /ecus/rrc/userprogram/program0 |  | True | False |
 | [program1](program1.md) | /ecus/rrc/userprogram/program1 |  | True | False |

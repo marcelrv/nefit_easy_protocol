@@ -1,6 +1,6 @@
-# fireplacefunction
+# Fireplace Mode
 
-
+This mssage switches the fireplace mode On/Off.
 
 ### Endpoint
 
@@ -9,7 +9,7 @@
 | URL   | /ecus/rrc/userprogram/fireplacefunction   |
 | Recordable   | False   |
 | Writable   | True   |
-| Parameters  | N/A |
+| Parameters  | {value : on/off} |
 
 ### Detailed Content
 
@@ -18,7 +18,7 @@
 |  id | /ecus/rrc/userprogram/fireplacefunction | Message ID (URL) |
 |  recordable | 0 | Recordable parameter (0=No) |
 |  type | stringValue | Data type of value |
-|  value | off |  |
+|  value | off | Is the fireplace function on or off. |
 |  writeable | 1 | Writable parameter (0=No) |
 
 
