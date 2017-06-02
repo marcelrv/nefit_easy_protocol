@@ -14,17 +14,17 @@ Provides outdoor temperature information from physical sensor or internet
 ### Detailed Content
 
 |  Key  | Example | Description |
-| ------------- | :------: | ------------------------------ |
-|  id | _/system/sensors/temperatures/outdoor_t1_ | Message ID (URL) |
-|  maxValue | _50_ | Maximum allowed value |
-|  minValue | _-25_ | Minimum allowed value |
-|  recordable | _0_ | Recordable parameter (0=No) |
-|  srcType | _physical_ | Source of the temperature information (possible values: physical, ...) |
-|  status | _ok_ | Status of the temperature measurement (possible values: ok, ...) |
-|  type | _floatValue_ | Data type of value |
-|  unitOfMeasure | _C_ | Unit of Measure |
-|  value | _25_ | Measured temperature |
-|  writeable | _0_ | Writable parameter (0=No) |
+| ------------- | :------: | :------------------------------ |
+|  id | `/system/sensors/temperatures/outdoor_t1` | Message ID (URL) |
+|  maxValue | `50` | Maximum allowed value |
+|  minValue | `-25` | Minimum allowed value |
+|  recordable | `0` | Recordable parameter (0=No) |
+|  srcType | `physical` | Source of the temperature information (possible values: physical, ...) |
+|  status | `ok` | Status of the temperature measurement (possible values: ok, ...) |
+|  type | `floatValue` | Data type of value |
+|  unitOfMeasure | `C` | Unit of Measure |
+|  value | `25` | Measured temperature |
+|  writeable | `0` | Writable parameter (0=No) |
 
 
 

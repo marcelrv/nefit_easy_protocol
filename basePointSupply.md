@@ -14,15 +14,15 @@
 ### Detailed Content
 
 |  Key  | Example | Description |
-| ------------- | :------: | ------------------------------ |
-|  id | _/ecus/rrc/weatherDependent/basePointSupply_ | Message ID (URL) |
-|  maxValue | _90_ | Maximum allowed value |
-|  minValue | _20_ | Minimum allowed value |
-|  recordable | _0_ | Recordable parameter (0=No) |
-|  type | _floatValue_ | Data type of value |
-|  unitOfMeasure | _C_ | Unit of Measure |
-|  value | _20_ |  |
-|  writeable | _1_ | Writable parameter (0=No) |
+| ------------- | :------: | :------------------------------ |
+|  id | `/ecus/rrc/weatherDependent/basePointSupply` | Message ID (URL) |
+|  maxValue | `90` | Maximum allowed value |
+|  minValue | `20` | Minimum allowed value |
+|  recordable | `0` | Recordable parameter (0=No) |
+|  type | `floatValue` | Data type of value |
+|  unitOfMeasure | `C` | Unit of Measure |
+|  value | `20` |  |
+|  writeable | `1` | Writable parameter (0=No) |
 
 
 

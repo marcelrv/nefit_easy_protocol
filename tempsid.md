@@ -14,12 +14,12 @@
 ### Detailed Content
 
 |  Key  | Example | Description |
-| ------------- | :------: | ------------------------------ |
-|  id | _/gateway/remote/tempsid_ | Message ID (URL) |
-|  recordable | _0_ | Recordable parameter (0=No) |
-|  type | _stringValue_ | Data type of value |
-|  value | _E09AAA_ |  |
-|  writeable | _0_ | Writable parameter (0=No) |
+| ------------- | :------: | :------------------------------ |
+|  id | `/gateway/remote/tempsid` | Message ID (URL) |
+|  recordable | `0` | Recordable parameter (0=No) |
+|  type | `stringValue` | Data type of value |
+|  value | `E09AAA` |  |
+|  writeable | `0` | Writable parameter (0=No) |
 
 
 

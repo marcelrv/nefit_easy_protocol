@@ -14,15 +14,15 @@
 ### Detailed Content
 
 |  Key  | Example | Description |
-| ------------- | :------: | ------------------------------ |
-|  id | _/heatingCircuits/hc1/actualSupplyTemperature_ | Message ID (URL) |
-|  maxValue | _100_ | Maximum allowed value |
-|  minValue | _0_ | Minimum allowed value |
-|  recordable | _0_ | Recordable parameter (0=No) |
-|  type | _floatValue_ | Data type of value |
-|  unitOfMeasure | _C_ | Unit of Measure |
-|  value | _30_ |  |
-|  writeable | _0_ | Writable parameter (0=No) |
+| ------------- | :------: | :------------------------------ |
+|  id | `/heatingCircuits/hc1/actualSupplyTemperature` | Message ID (URL) |
+|  maxValue | `100` | Maximum allowed value |
+|  minValue | `0` | Minimum allowed value |
+|  recordable | `0` | Recordable parameter (0=No) |
+|  type | `floatValue` | Data type of value |
+|  unitOfMeasure | `C` | Unit of Measure |
+|  value | `30` |  |
+|  writeable | `0` | Writable parameter (0=No) |
 
 
 

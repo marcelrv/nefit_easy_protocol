@@ -14,12 +14,12 @@
 ### Detailed Content
 
 |  Key  | Example | Description |
-| ------------- | :------: | ------------------------------ |
-|  id | _/gateway/versionFirmware_ | Message ID (URL) |
-|  recordable | _0_ | Recordable parameter (0=No) |
-|  type | _stringValue_ | Data type of value |
-|  value | _02.18.02_ |  |
-|  writeable | _0_ | Writable parameter (0=No) |
+| ------------- | :------: | :------------------------------ |
+|  id | `/gateway/versionFirmware` | Message ID (URL) |
+|  recordable | `0` | Recordable parameter (0=No) |
+|  type | `stringValue` | Data type of value |
+|  value | `02.18.02` |  |
+|  writeable | `0` | Writable parameter (0=No) |
 
 
 

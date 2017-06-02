@@ -14,12 +14,12 @@
 ### Detailed Content
 
 |  Key  | Example | Description |
-| ------------- | :------: | ------------------------------ |
-|  id | _/ecus/rrc/temperaturestep_ | Message ID (URL) |
-|  recordable | _0_ | Recordable parameter (0=No) |
-|  type | _stringValue_ | Data type of value |
-|  value | _0.5_ |  |
-|  writeable | _1_ | Writable parameter (0=No) |
+| ------------- | :------: | :------------------------------ |
+|  id | `/ecus/rrc/temperaturestep` | Message ID (URL) |
+|  recordable | `0` | Recordable parameter (0=No) |
+|  type | `stringValue` | Data type of value |
+|  value | `0.5` |  |
+|  writeable | `1` | Writable parameter (0=No) |
 
 
 

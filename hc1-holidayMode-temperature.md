@@ -14,15 +14,15 @@
 ### Detailed Content
 
 |  Key  | Example | Description |
-| ------------- | :------: | ------------------------------ |
-|  id | _/heatingCircuits/hc1/holidayMode/temperature_ | Message ID (URL) |
-|  maxValue | _30_ | Maximum allowed value |
-|  minValue | _5_ | Minimum allowed value |
-|  recordable | _0_ | Recordable parameter (0=No) |
-|  type | _floatValue_ | Data type of value |
-|  unitOfMeasure | _C_ | Unit of Measure |
-|  value | _10_ |  |
-|  writeable | _1_ | Writable parameter (0=No) |
+| ------------- | :------: | :------------------------------ |
+|  id | `/heatingCircuits/hc1/holidayMode/temperature` | Message ID (URL) |
+|  maxValue | `30` | Maximum allowed value |
+|  minValue | `5` | Minimum allowed value |
+|  recordable | `0` | Recordable parameter (0=No) |
+|  type | `floatValue` | Data type of value |
+|  unitOfMeasure | `C` | Unit of Measure |
+|  value | `10` |  |
+|  writeable | `1` | Writable parameter (0=No) |
 
 
 

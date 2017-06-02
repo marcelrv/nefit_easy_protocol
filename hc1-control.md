@@ -14,12 +14,12 @@
 ### Detailed Content
 
 |  Key  | Example | Description |
-| ------------- | :------: | ------------------------------ |
-|  id | _/heatingCircuits/hc1/control_ | Message ID (URL) |
-|  recordable | _0_ | Recordable parameter (0=No) |
-|  type | _stringValue_ | Data type of value |
-|  value | _room_ |  |
-|  writeable | _1_ | Writable parameter (0=No) |
+| ------------- | :------: | :------------------------------ |
+|  id | `/heatingCircuits/hc1/control` | Message ID (URL) |
+|  recordable | `0` | Recordable parameter (0=No) |
+|  type | `stringValue` | Data type of value |
+|  value | `room` |  |
+|  writeable | `1` | Writable parameter (0=No) |
 
 
 

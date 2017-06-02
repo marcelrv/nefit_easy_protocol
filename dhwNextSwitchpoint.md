@@ -14,13 +14,18 @@
 ### Detailed Content
 
 |  Key  | Example | Description |
-| ------------- | :------: | ------------------------------ |
-|  id | _/dhwCircuits/dhwA/dhwNextSwitchpoint_ | Message ID (URL) |
-|  recordable | _0_ | Recordable parameter (0=No) |
-|  type | _DhwProgram_ | Data type of value |
-|  value | _[]_ |  |
-|  writeable | _0_ | Writable parameter (0=No) |
+| ------------- | :------: | :------------------------------ |
+|  id | `/dhwCircuits/dhwA/dhwNextSwitchpoint` | Message ID (URL) |
+|  recordable | `0` | Recordable parameter (0=No) |
+|  type | `DhwProgram` | Data type of value |
+|  value | `[]` |  |
+|  writeable | `0` | Writable parameter (0=No) |
 
+
+### DhwProgram type details 
+
+|  Key  | Example | Description |
+| ------------- | :------: | :------------------------------ |
 
 
 ### Example Message Content

@@ -14,15 +14,15 @@
 ### Detailed Content
 
 |  Key  | Example | Description |
-| ------------- | :------: | ------------------------------ |
-|  id | _/dhwCircuits/dhwA/thermaldesinfect/time_ | Message ID (URL) |
-|  maxValue | _1440_ | Maximum allowed value |
-|  minValue | _0_ | Minimum allowed value |
-|  recordable | _0_ | Recordable parameter (0=No) |
-|  type | _floatValue_ | Data type of value |
-|  unitOfMeasure | _Min_ | Unit of Measure |
-|  value | _60_ |  |
-|  writeable | _1_ | Writable parameter (0=No) |
+| ------------- | :------: | :------------------------------ |
+|  id | `/dhwCircuits/dhwA/thermaldesinfect/time` | Message ID (URL) |
+|  maxValue | `1440` | Maximum allowed value |
+|  minValue | `0` | Minimum allowed value |
+|  recordable | `0` | Recordable parameter (0=No) |
+|  type | `floatValue` | Data type of value |
+|  unitOfMeasure | `Min` | Unit of Measure |
+|  value | `60` |  |
+|  writeable | `1` | Writable parameter (0=No) |
 
 
 

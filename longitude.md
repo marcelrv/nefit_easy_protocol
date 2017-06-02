@@ -14,12 +14,12 @@ Provides the location of the thermostat for outside temperature data
 ### Detailed Content
 
 |  Key  | Example | Description |
-| ------------- | :------: | ------------------------------ |
-|  id | _/system/location/longitude_ | Message ID (URL) |
-|  recordable | _0_ | Recordable parameter (0=No) |
-|  type | _stringValue_ | Data type of value |
-|  value | _4.1234567_ | Location Longitude |
-|  writeable | _1_ | Writable parameter (0=No) |
+| ------------- | :------: | :------------------------------ |
+|  id | `/system/location/longitude` | Message ID (URL) |
+|  recordable | `0` | Recordable parameter (0=No) |
+|  type | `stringValue` | Data type of value |
+|  value | `4.1234567` | Location Longitude |
+|  writeable | `1` | Writable parameter (0=No) |
 
 
 

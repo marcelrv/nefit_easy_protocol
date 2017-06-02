@@ -14,12 +14,12 @@
 ### Detailed Content
 
 |  Key  | Example | Description |
-| ------------- | :------: | ------------------------------ |
-|  id | _/notifications_ | Message ID (URL) |
-|  recordable | _0_ | Recordable parameter (0=No) |
-|  type | _errorList_ | Data type of value |
-|  values | _[]_ |  |
-|  writeable | _0_ | Writable parameter (0=No) |
+| ------------- | :------: | :------------------------------ |
+|  id | `/notifications` | Message ID (URL) |
+|  recordable | `0` | Recordable parameter (0=No) |
+|  type | `errorList` | Data type of value |
+|  values | `[]` |  |
+|  writeable | `0` | Writable parameter (0=No) |
 
 
 

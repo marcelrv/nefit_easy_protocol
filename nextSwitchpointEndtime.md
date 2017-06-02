@@ -14,21 +14,21 @@
 ### Detailed Content
 
 |  Key  | Example | Description |
-| ------------- | :------: | ------------------------------ |
-|  id | _/ecus/rrc/selflearning/nextSwitchpointEndtime_ | Message ID (URL) |
-|  recordable | _0_ | Recordable parameter (0=No) |
-|  type | _switchpoint_ | Data type of value |
-|  value | _{"t": 0, "T": 5, "d": "Su"}_ |  |
-|  writeable | _0_ | Writable parameter (0=No) |
+| ------------- | :------: | :------------------------------ |
+|  id | `/ecus/rrc/selflearning/nextSwitchpointEndtime` | Message ID (URL) |
+|  recordable | `0` | Recordable parameter (0=No) |
+|  type | `switchpoint` | Data type of value |
+|  value | `{"t": 0, "T": 5, "d": "Su"}` |  |
+|  writeable | `0` | Writable parameter (0=No) |
 
 
 ### switchpoint type details 
 
 |  Key  | Example | Description |
-| ------------- | :------: | ------------------------------ |
-|  T | _5_ |  |
-|  d | _Su_ |  |
-|  t | _0_ |  |
+| ------------- | :------: | :------------------------------ |
+|  T | `5` |  |
+|  d | `Su` |  |
+|  t | `0` |  |
 
 
 ### Example Message Content

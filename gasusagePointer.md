@@ -14,15 +14,15 @@
 ### Detailed Content
 
 |  Key  | Example | Description |
-| ------------- | :------: | ------------------------------ |
-|  id | _/ecus/rrc/recordings/gasusagePointer_ | Message ID (URL) |
-|  maxValue | _6400_ | Maximum allowed value |
-|  minValue | _1_ | Minimum allowed value |
-|  recordable | _0_ | Recordable parameter (0=No) |
-|  type | _floatValue_ | Data type of value |
-|  unitOfMeasure | __ | Unit of Measure |
-|  value | _7_ |  |
-|  writeable | _0_ | Writable parameter (0=No) |
+| ------------- | :------: | :------------------------------ |
+|  id | `/ecus/rrc/recordings/gasusagePointer` | Message ID (URL) |
+|  maxValue | `6400` | Maximum allowed value |
+|  minValue | `1` | Minimum allowed value |
+|  recordable | `0` | Recordable parameter (0=No) |
+|  type | `floatValue` | Data type of value |
+|  unitOfMeasure | `` | Unit of Measure |
+|  value | `7` |  |
+|  writeable | `0` | Writable parameter (0=No) |
 
 
 

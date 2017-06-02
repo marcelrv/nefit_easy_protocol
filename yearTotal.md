@@ -14,15 +14,15 @@ Provides the Gas Usage -Year To Date
 ### Detailed Content
 
 |  Key  | Example | Description |
-| ------------- | :------: | ------------------------------ |
-|  id | _/ecus/rrc/recordings/yearTotal_ | Message ID (URL) |
-|  maxValue | _429496729.5_ | Maximum allowed value |
-|  minValue | _0_ | Minimum allowed value |
-|  recordable | _0_ | Recordable parameter (0=No) |
-|  type | _floatValue_ | Data type of value |
-|  unitOfMeasure | _kWh_ | Unit of Measure |
-|  value | _30.2_ | YTD Usage |
-|  writeable | _0_ | Writable parameter (0=No) |
+| ------------- | :------: | :------------------------------ |
+|  id | `/ecus/rrc/recordings/yearTotal` | Message ID (URL) |
+|  maxValue | `429496729.5` | Maximum allowed value |
+|  minValue | `0` | Minimum allowed value |
+|  recordable | `0` | Recordable parameter (0=No) |
+|  type | `floatValue` | Data type of value |
+|  unitOfMeasure | `kWh` | Unit of Measure |
+|  value | `30.2` | YTD Usage |
+|  writeable | `0` | Writable parameter (0=No) |
 
 
 

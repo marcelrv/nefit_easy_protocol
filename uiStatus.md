@@ -14,48 +14,48 @@ Provides status information
 ### Detailed Content
 
 |  Key  | Example | Description |
-| ------------- | :------: | ------------------------------ |
-|  id | _/ecus/rrc/uiStatus_ | Message ID (URL) |
-|  recordable | _0_ | Recordable parameter (0=No) |
-|  type | _uiUpdate_ | Data type of value |
-|  value | _{"CPM": "auto", "CTR": "room", "TOR": "off", "TOT": "21.0", "CTD": "2017-05-29T17:21:02+01:00 Mo", "BLE": "false", "DOT": "false", "BAI": "No", "HED_DB": "", "RS": "off", "BMR": "false", "FAH": "false", "TOD": "0", "DAS": "off", "HMD": "off", "FPA": "off", "BBE": "false", "DHW": "on", "CSP": "8", "ESI": "off", "ARS": "init", "HED_DEV": "false", "PMR": "false", "UMD": "clock", "MMT": "15.0", "TAS": "off", "HED_EN": "false", "IHT": "27.40", "TSP": "20.0", "IHS": "ok"}_ |  |
-|  writeable | _0_ | Writable parameter (0=No) |
+| ------------- | :------: | :------------------------------ |
+|  id | `/ecus/rrc/uiStatus` | Message ID (URL) |
+|  recordable | `0` | Recordable parameter (0=No) |
+|  type | `uiUpdate` | Data type of value |
+|  value | `{"CPM": "auto", "CTR": "room", "TOR": "off", "TOT": "21.0", "CTD": "2017-05-29T17:21:02+01:00 Mo", "BLE": "false", "DOT": "false", "BAI": "No", "HED_DB": "", "RS": "off", "BMR": "false", "FAH": "false", "TOD": "0", "DAS": "off", "HMD": "off", "FPA": "off", "BBE": "false", "DHW": "on", "CSP": "8", "ESI": "off", "ARS": "init", "HED_DEV": "false", "PMR": "false", "UMD": "clock", "MMT": "15.0", "TAS": "off", "HED_EN": "false", "IHT": "27.40", "TSP": "20.0", "IHS": "ok"}` |  |
+|  writeable | `0` | Writable parameter (0=No) |
 
 
 ### uiUpdate type details 
 
 |  Key  | Example | Description |
-| ------------- | :------: | ------------------------------ |
-|  ARS | _init_ |  |
-|  BAI | _No_ | Boiler Indicator (String 'CH' : 'central heating', 'HW' : 'hot water', 'No' : 'off') |
-|  BBE | _false_ | Boiler Block (Boolean) |
-|  BLE | _false_ | Boiler Lock (Boolean) |
-|  BMR | _false_ | Boiler Maintenance (Boolean) |
-|  CPM | _auto_ | Clock Program (String) |
-|  CSP | _8_ | Current Switch point (Float) |
-|  CTD | _2017-05-29T17:21:02+01:00 Mo_ |  |
-|  CTR | _room_ |  |
-|  DAS | _off_ |  |
-|  DHW | _on_ | hot water active (Boolean) |
-|  DOT | _false_ |  |
-|  ESI | _off_ |  |
-|  FAH | _false_ |  |
-|  FPA | _off_ |  |
-|  HED_DB | __ |  |
-|  HED_DEV | _false_ |  |
-|  HED_EN | _false_ |  |
-|  HMD | _off_ |  |
-|  IHS | _ok_ |  |
-|  IHT | _27.40_ | In House Temperature (Float) |
-|  MMT | _15.0_ |  |
-|  PMR | _false_ |  |
-|  RS | _off_ |  |
-|  TAS | _off_ |  |
-|  TOD | _0_ | Temp Override Duration |
-|  TOR | _off_ | Temp Override |
-|  TOT | _21.0_ |  |
-|  TSP | _20.0_ |  |
-|  UMD | _clock_ | User Mode (String) |
+| ------------- | :------: | :------------------------------ |
+|  ARS | `init` |  |
+|  BAI | `No` | Boiler Indicator (String 'CH' : 'central heating', 'HW' : 'hot water', 'No' : 'off') |
+|  BBE | `false` | Boiler Block (Boolean) |
+|  BLE | `false` | Boiler Lock (Boolean) |
+|  BMR | `false` | Boiler Maintenance (Boolean) |
+|  CPM | `auto` | Clock Program (String) |
+|  CSP | `8` | Current Switch point (Float) |
+|  CTD | `2017-05-29T17:21:02+01:00 Mo` |  |
+|  CTR | `room` |  |
+|  DAS | `off` |  |
+|  DHW | `on` | hot water active (Boolean) |
+|  DOT | `false` |  |
+|  ESI | `off` |  |
+|  FAH | `false` |  |
+|  FPA | `off` |  |
+|  HED_DB | `` |  |
+|  HED_DEV | `false` |  |
+|  HED_EN | `false` |  |
+|  HMD | `off` |  |
+|  IHS | `ok` |  |
+|  IHT | `27.40` | In House Temperature (Float) |
+|  MMT | `15.0` |  |
+|  PMR | `false` |  |
+|  RS | `off` |  |
+|  TAS | `off` |  |
+|  TOD | `0` | Temp Override Duration |
+|  TOR | `off` | Temp Override |
+|  TOT | `21.0` |  |
+|  TSP | `20.0` |  |
+|  UMD | `clock` | User Mode (String) |
 
 
 ### Example Message Content
