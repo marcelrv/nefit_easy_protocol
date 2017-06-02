@@ -15,18 +15,18 @@
 
 |  Key  | Example | Description |
 | ------------- | :------: | ------------------------------ |
-|  id | /ecus/rrc/weatherDependent/maxSupply | Message ID (URL) |
-|  maxValue | 90 | Maximum allowed value |
-|  minValue | 25 | Minimum allowed value |
-|  recordable | 0 | Recordable parameter (0=No) |
-|  type | floatValue | Data type of value |
-|  unitOfMeasure | C | Unit of Measure |
-|  value | 90 |  |
-|  writeable | 1 | Writable parameter (0=No) |
+|  id | _/ecus/rrc/weatherDependent/maxSupply_ | Message ID (URL) |
+|  maxValue | _90_ | Maximum allowed value |
+|  minValue | _25_ | Minimum allowed value |
+|  recordable | _0_ | Recordable parameter (0=No) |
+|  type | _floatValue_ | Data type of value |
+|  unitOfMeasure | _C_ | Unit of Measure |
+|  value | _90_ |  |
+|  writeable | _1_ | Writable parameter (0=No) |
 
 
 
-### Example
+### Example Message Content
 ```
 {
     "id": "/ecus/rrc/weatherDependent/maxSupply",

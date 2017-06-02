@@ -15,15 +15,15 @@
 
 |  Key  | Example | Description |
 | ------------- | :------: | ------------------------------ |
-|  id | /system/appliance/version | Message ID (URL) |
-|  recordable | 0 | Recordable parameter (0=No) |
-|  type | stringValue | Data type of value |
-|  value | 1.8 |  |
-|  writeable | 0 | Writable parameter (0=No) |
+|  id | _/system/appliance/version_ | Message ID (URL) |
+|  recordable | _0_ | Recordable parameter (0=No) |
+|  type | _stringValue_ | Data type of value |
+|  value | _1.8_ |  |
+|  writeable | _0_ | Writable parameter (0=No) |
 
 
 
-### Example
+### Example Message Content
 ```
 {
     "id": "/system/appliance/version",

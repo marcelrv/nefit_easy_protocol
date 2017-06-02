@@ -15,15 +15,15 @@
 
 |  Key  | Example | Description |
 | ------------- | :------: | ------------------------------ |
-|  id | /gateway/uuid | Message ID (URL) |
-|  recordable | 0 | Recordable parameter (0=No) |
-|  type | stringValue | Data type of value |
-|  value | 123456789 | Unique ID  |
-|  writeable | 0 | Writable parameter (0=No) |
+|  id | _/gateway/uuid_ | Message ID (URL) |
+|  recordable | _0_ | Recordable parameter (0=No) |
+|  type | _stringValue_ | Data type of value |
+|  value | _123456789_ | Unique ID  |
+|  writeable | _0_ | Writable parameter (0=No) |
 
 
 
-### Example
+### Example Message Content
 ```
 {
     "id": "/gateway/uuid",

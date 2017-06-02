@@ -15,15 +15,15 @@
 
 |  Key  | Example | Description |
 | ------------- | :------: | ------------------------------ |
-|  id | /ecus/rrc/installerdetails | Message ID (URL) |
-|  recordable | 0 | Recordable parameter (0=No) |
-|  type | stringValue | Data type of value |
-|  value | ;;; |  |
-|  writeable | 1 | Writable parameter (0=No) |
+|  id | _/ecus/rrc/installerdetails_ | Message ID (URL) |
+|  recordable | _0_ | Recordable parameter (0=No) |
+|  type | _stringValue_ | Data type of value |
+|  value | _;;;_ |  |
+|  writeable | _1_ | Writable parameter (0=No) |
 
 
 
-### Example
+### Example Message Content
 ```
 {
     "id": "/ecus/rrc/installerdetails",

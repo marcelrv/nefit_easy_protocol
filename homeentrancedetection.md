@@ -15,13 +15,13 @@
 
 |  Key  | Example | Description |
 | ------------- | :------: | ------------------------------ |
-|  id | /ecus/rrc/homeentrancedetection | Message ID (URL) |
-|  references | [{u'id': u'/ecus/rrc/homeentrancedetection/option'}, {u'id': u'/ecus/rrc/homeentrancedetection/userprofile0'}, {u'id': u'/ecus/rrc/homeentrancedetection/userprofile1'}, {u'id': u'/ecus/rrc/homeentrancedetection/userprofile2'}, {u'id': u'/ecus/rrc/homeentrancedetection/userprofile3'}, {u'id': u'/ecus/rrc/homeentrancedetection/userprofile4'}, {u'id': u'/ecus/rrc/homeentrancedetection/userprofile5'}, {u'id': u'/ecus/rrc/homeentrancedetection/userprofile6'}, {u'id': u'/ecus/rrc/homeentrancedetection/userprofile7'}, {u'id': u'/ecus/rrc/homeentrancedetection/userprofile8'}, {u'id': u'/ecus/rrc/homeentrancedetection/userprofile9'}] |  |
-|  type | refEnum | Data type of value |
+|  id | _/ecus/rrc/homeentrancedetection_ | Message ID (URL) |
+|  references | _[{u'id': u'/ecus/rrc/homeentrancedetection/option'}, {u'id': u'/ecus/rrc/homeentrancedetection/userprofile0'}, {u'id': u'/ecus/rrc/homeentrancedetection/userprofile1'}, {u'id': u'/ecus/rrc/homeentrancedetection/userprofile2'}, {u'id': u'/ecus/rrc/homeentrancedetection/userprofile3'}, {u'id': u'/ecus/rrc/homeentrancedetection/userprofile4'}, {u'id': u'/ecus/rrc/homeentrancedetection/userprofile5'}, {u'id': u'/ecus/rrc/homeentrancedetection/userprofile6'}, {u'id': u'/ecus/rrc/homeentrancedetection/userprofile7'}, {u'id': u'/ecus/rrc/homeentrancedetection/userprofile8'}, {u'id': u'/ecus/rrc/homeentrancedetection/userprofile9'}]_ |  |
+|  type | _refEnum_ | Data type of value |
 
 
 
-### Example
+### Example Message Content
 ```
 {
     "id": "/ecus/rrc/homeentrancedetection",

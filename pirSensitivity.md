@@ -15,15 +15,15 @@
 
 |  Key  | Example | Description |
 | ------------- | :------: | ------------------------------ |
-|  id | /ecus/rrc/pirSensitivity | Message ID (URL) |
-|  recordable | 0 | Recordable parameter (0=No) |
-|  type | stringValue | Data type of value |
-|  value | high |  |
-|  writeable | 1 | Writable parameter (0=No) |
+|  id | _/ecus/rrc/pirSensitivity_ | Message ID (URL) |
+|  recordable | _0_ | Recordable parameter (0=No) |
+|  type | _stringValue_ | Data type of value |
+|  value | _high_ |  |
+|  writeable | _1_ | Writable parameter (0=No) |
 
 
 
-### Example
+### Example Message Content
 ```
 {
     "id": "/ecus/rrc/pirSensitivity",

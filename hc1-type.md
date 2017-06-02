@@ -15,15 +15,15 @@
 
 |  Key  | Example | Description |
 | ------------- | :------: | ------------------------------ |
-|  id | /heatingCircuits/hc1/type | Message ID (URL) |
-|  recordable | 0 | Recordable parameter (0=No) |
-|  type | stringValue | Data type of value |
-|  value | radiator |  |
-|  writeable | 1 | Writable parameter (0=No) |
+|  id | _/heatingCircuits/hc1/type_ | Message ID (URL) |
+|  recordable | _0_ | Recordable parameter (0=No) |
+|  type | _stringValue_ | Data type of value |
+|  value | _radiator_ |  |
+|  writeable | _1_ | Writable parameter (0=No) |
 
 
 
-### Example
+### Example Message Content
 ```
 {
     "id": "/heatingCircuits/hc1/type",

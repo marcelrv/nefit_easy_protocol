@@ -7,8 +7,7 @@ As there are 32 entries per page, the current gasusage pointer needs to be divid
 
 
 
-To convert to m3, the Easy uses a conversion factor of 0.12307692F (kWh * 0.12307692f = m3) for natural gas (which means a calorific value of 29MJ/m3).
-
+To convert to m3, the Easy uses a conversion factor of 0.12307692F (kWh * 0.12307692f = m3) for natural gas (which means a calorific value of 29MJ/m3).  
 For LPG usage, the conversion factor is 0.040742416F.
 
 
@@ -25,18 +24,18 @@ For LPG usage, the conversion factor is 0.040742416F.
 
 |  Key  | Example | Description |
 | ------------- | :------: | ------------------------------ |
-|  id | /ecus/rrc/recordings/gasusage | Message ID (URL) |
-|  recordable | 0 | Recordable parameter (0=No) |
-|  type | recordings | Data type of value |
-|  value | [{u'ch': 0, u'T': 226, u'hw': 3.8, u'd': u'29-05-2017'}, {u'ch': 0, u'T': 211, u'hw': 7.2, u'd': u'30-05-2017'}, {u'ch': 6553.5, u'T': -1, u'hw': 6553.5, u'd': u'255-256-65535'}] | Gas Usage Records for each day formatted in JSON
+|  id | _/ecus/rrc/recordings/gasusage_ | Message ID (URL) |
+|  recordable | _0_ | Recordable parameter (0=No) |
+|  type | _recordings_ | Data type of value |
+|  value | _[{u'ch': 0, u'T': 226, u'hw': 3.8, u'd': u'29-05-2017'}, {u'ch': 0, u'T': 211, u'hw': 7.2, u'd': u'30-05-2017'}, {u'ch': 6553.5, u'T': -1, u'hw': 6553.5, u'd': u'255-256-65535'}]_ | Gas Usage Records for each day formatted in JSON
  t=average outdoor temperature (*10)
 ch=Central Heating
 d=Date formatted as DD-MM-YYYY hw=Hot Water |
-|  writeable | 0 | Writable parameter (0=No) |
+|  writeable | _0_ | Writable parameter (0=No) |
 
 
 
-### Example
+### Example Message Content
 ```
 {
     "id": "/ecus/rrc/recordings/gasusage",

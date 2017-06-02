@@ -15,15 +15,15 @@
 
 |  Key  | Example | Description |
 | ------------- | :------: | ------------------------------ |
-|  id | /dhwCircuits/dhwA/dhwCurrentSwitchpoint | Message ID (URL) |
-|  recordable | 0 | Recordable parameter (0=No) |
-|  type | DhwProgram | Data type of value |
-|  value | [{u'active': u'on', u'dhw': u'on', u'd': u'Mo', u't': 1020}] |  |
-|  writeable | 0 | Writable parameter (0=No) |
+|  id | _/dhwCircuits/dhwA/dhwCurrentSwitchpoint_ | Message ID (URL) |
+|  recordable | _0_ | Recordable parameter (0=No) |
+|  type | _DhwProgram_ | Data type of value |
+|  value | _[{u'active': u'on', u'dhw': u'on', u'd': u'Mo', u't': 1020}]_ |  |
+|  writeable | _0_ | Writable parameter (0=No) |
 
 
 
-### Example
+### Example Message Content
 ```
 {
     "id": "/dhwCircuits/dhwA/dhwCurrentSwitchpoint",

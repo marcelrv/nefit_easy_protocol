@@ -15,23 +15,23 @@
 
 |  Key  | Example | Description |
 | ------------- | :------: | ------------------------------ |
-|  id | /ecus/rrc/selflearning/nextSwitchpoint | Message ID (URL) |
-|  recordable | 0 | Recordable parameter (0=No) |
-|  type | switchpoint | Data type of value |
-|  value | {"t": 0, "T": 5, "d": "Su"} |  |
-|  writeable | 1 | Writable parameter (0=No) |
+|  id | _/ecus/rrc/selflearning/nextSwitchpoint_ | Message ID (URL) |
+|  recordable | _0_ | Recordable parameter (0=No) |
+|  type | _switchpoint_ | Data type of value |
+|  value | _{"t": 0, "T": 5, "d": "Su"}_ |  |
+|  writeable | _1_ | Writable parameter (0=No) |
 
 
 ### switchpoint type details 
 
 |  Key  | Example | Description |
 | ------------- | :------: | ------------------------------ |
-|  T | 5 |  |
-|  d | Su |  |
-|  t | 0 |  |
+|  T | _5_ |  |
+|  d | _Su_ |  |
+|  t | _0_ |  |
 
 
-### Example
+### Example Message Content
 ```
 {
     "id": "/ecus/rrc/selflearning/nextSwitchpoint",

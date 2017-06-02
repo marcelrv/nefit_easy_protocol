@@ -15,15 +15,15 @@
 
 |  Key  | Example | Description |
 | ------------- | :------: | ------------------------------ |
-|  id | /ecus/rrc/personaldetails | Message ID (URL) |
-|  recordable | 0 | Recordable parameter (0=No) |
-|  type | stringValue | Data type of value |
-|  value | User Name;tel#;email@example.com |  |
-|  writeable | 1 | Writable parameter (0=No) |
+|  id | _/ecus/rrc/personaldetails_ | Message ID (URL) |
+|  recordable | _0_ | Recordable parameter (0=No) |
+|  type | _stringValue_ | Data type of value |
+|  value | _User Name;tel#;email@example.com_ |  |
+|  writeable | _1_ | Writable parameter (0=No) |
 
 
 
-### Example
+### Example Message Content
 ```
 {
     "id": "/ecus/rrc/personaldetails",

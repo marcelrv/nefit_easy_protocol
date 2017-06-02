@@ -15,15 +15,15 @@ This mssage switches the fireplace mode On/Off.
 
 |  Key  | Example | Description |
 | ------------- | :------: | ------------------------------ |
-|  id | /ecus/rrc/userprogram/fireplacefunction | Message ID (URL) |
-|  recordable | 0 | Recordable parameter (0=No) |
-|  type | stringValue | Data type of value |
-|  value | off | Is the fireplace function on or off. |
-|  writeable | 1 | Writable parameter (0=No) |
+|  id | _/ecus/rrc/userprogram/fireplacefunction_ | Message ID (URL) |
+|  recordable | _0_ | Recordable parameter (0=No) |
+|  type | _stringValue_ | Data type of value |
+|  value | _off_ | Is the fireplace function on or off. |
+|  writeable | _1_ | Writable parameter (0=No) |
 
 
 
-### Example
+### Example Message Content
 ```
 {
     "id": "/ecus/rrc/userprogram/fireplacefunction",

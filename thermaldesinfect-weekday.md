@@ -15,15 +15,15 @@
 
 |  Key  | Example | Description |
 | ------------- | :------: | ------------------------------ |
-|  id | /dhwCircuits/dhwA/thermaldesinfect/weekday | Message ID (URL) |
-|  recordable | 0 | Recordable parameter (0=No) |
-|  type | stringValue | Data type of value |
-|  value | Mo |  |
-|  writeable | 1 | Writable parameter (0=No) |
+|  id | _/dhwCircuits/dhwA/thermaldesinfect/weekday_ | Message ID (URL) |
+|  recordable | _0_ | Recordable parameter (0=No) |
+|  type | _stringValue_ | Data type of value |
+|  value | _Mo_ |  |
+|  writeable | _1_ | Writable parameter (0=No) |
 
 
 
-### Example
+### Example Message Content
 ```
 {
     "id": "/dhwCircuits/dhwA/thermaldesinfect/weekday",

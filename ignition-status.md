@@ -15,16 +15,16 @@
 
 |  Key  | Example | Description |
 | ------------- | :------: | ------------------------------ |
-|  id | /ecus/rrc/pm/ignition/status | Message ID (URL) |
-|  recordable | 0 | Recordable parameter (0=No) |
-|  timestamp | 2000-01-01T00:00:00 |  |
-|  type | stringValue | Data type of value |
-|  value | false |  |
-|  writeable | 0 | Writable parameter (0=No) |
+|  id | _/ecus/rrc/pm/ignition/status_ | Message ID (URL) |
+|  recordable | _0_ | Recordable parameter (0=No) |
+|  timestamp | _2000-01-01T00:00:00_ |  |
+|  type | _stringValue_ | Data type of value |
+|  value | _false_ |  |
+|  writeable | _0_ | Writable parameter (0=No) |
 
 
 
-### Example
+### Example Message Content
 ```
 {
     "id": "/ecus/rrc/pm/ignition/status",
