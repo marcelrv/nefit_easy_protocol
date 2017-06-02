@@ -77,6 +77,7 @@
 | [hc1-operationMode](hc1-operationMode.md) | /heatingCircuits/hc1/operationMode |  | True | False |
 | [hc1-temperatureAdjustment](hc1-temperatureAdjustment.md) | /heatingCircuits/hc1/temperatureAdjustment |  | True | False |
 | [hc1-type](hc1-type.md) | /heatingCircuits/hc1/type |  | True | False |
+| [hc1-manualTempOverride-status](hc1-manualTempOverride-status.md) | /heatingCircuits/hc1/manualTempOverride/status |  | True | False |
 | [notifications](notifications.md) | /notifications |  | False | False |
 | [boilermaintenancerequest](boilermaintenancerequest.md) | /system/appliance/boilermaintenancerequest |  | False | False |
 | [causecode](causecode.md) | /system/appliance/causecode |  | False | False |
